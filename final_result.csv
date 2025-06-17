@@ -1,0 +1,598 @@
+,uid,time_to_play,active_time,high_level,predictions,days_to_churn,warning
+4,050esJCBNDTmqKbEP0FI4tfkAvy1,13.11,7233.0,33.0,True,4 days 22:20:26.702202,"this player play time is only 1.31% of average, churn level is 382.35"
+6,05GnK8d6I0exUmnBedxqPH3cFWl1,0.0,5756.71,0.0,True,6 days 22:27:04.702202,player does not play!
+8,07UGnChzGpSaiGMBnO9ri7AXBwa2,0.0,5773.280000000001,0.0,True,6 days 21:19:47.702202,player does not play!
+12,08mutzZWOAPcfmORmfAV58YUIR02,0.0,8268.13,0.0,True,6 days 03:49:20.702202,player does not play!
+25,0N54tIy2rbccB3eQAugSaSvk9xN2,0.0,9941.09,0.0,True,7 days 20:07:53.702202,player does not play!
+30,0PV1ZDzA4tbsAssdQLbOciWaV6J2,0.0,6432.41,0.0,True,4 days 21:25:36.702202,player does not play!
+31,0QJ8jiVjlLXCIDL53KGF2yJj6iW2,13.24,4143.68,11.0,True,4 days 18:47:39.702202,"this player play time is only 2.31% of average, churn level is 1001.38"
+41,0X05rIDhnqZcl5uneQo2ntobvoq2,2.07,6931.6900000000005,4.0,True,4 days 15:23:36.703197,"this player play time is only 0.22% of average, skill is 24.7760807567098% of average, churn level is 14581.84"
+70,0rgPzUuXMwcPPzkCDRgeVYNfUjw2,0.0,4480.370000000001,0.0,True,7 days 23:57:35.703197,player does not play!
+71,0sZx6Ka6MpMUvwmllBZuVKlo9B02,5.2,5984.82,6.0,True,5 days 10:32:44.703197,"this player play time is only 0.63% of average, skill is 51.45912757550212% of average, churn level is 16504.15"
+73,0u5kOl5L7gVmdqOD7md7mH2D3Pp2,42.23,8789.61,35.0,True,4 days 23:11:56.703197,"this player play time is only 3.47% of average, churn level is 657.21"
+75,0wGrubnBETawePmFGdcnuLhq7WE3,13.46,520.76,983.0,True,6 days 05:31:22.703197,"this player play time is only 18.69% of average, churn level is 14.04"
+80,11QPHV1tXoU6YKJ9XGQ39yEaYxu1,9.19,2924.9700000000003,190.0,True,5 days 06:15:12.703197,"this player play time is only 2.27% of average, churn level is 156.18"
+86,14wdHXSjiVMBgbI8ieFaEeVECpW2,0.0,8312.310000000001,0.0,True,5 days 21:56:15.703197,player does not play!
+95,1D04LhQmz1N9RdA00ac1Hy2igG82,0.0,10034.960000000001,0.0,True,7 days 05:59:18.703197,player does not play!
+99,1E44XzZA3lSsJDAahM4GL77fQg73,0.0,8167.7,0.0,True,5 days 00:05:17.703197,player does not play!
+113,1QqRthlDygZntMZ3ECWGVjxia2k2,0.0,4694.12,0.0,True,6 days 00:58:59.704194,player does not play!
+125,1W1ETg97kcM5UB4fk9B71Wod7gn2,0.0,6146.38,0.0,True,6 days 01:24:25.704194,player does not play!
+126,1WXy16f3unOdDiZb8GI0cjFUsYc2,0.0,4474.8,0.0,True,5 days 22:48:39.704194,player does not play!
+138,1dcoqYVvBFW1DFgnYbp0NqFN3je2,1.26,4769.44,2.0,True,4 days 22:12:11.704194,"this player play time is only 0.19% of average, skill is 36.26958445192947% of average, churn level is 72723.47"
+141,1fqIqT5yqUgaQ8lyUoRJ6VWvoxg1,0.0,9041.570000000002,0.0,True,4 days 16:50:15.704194,player does not play!
+154,1mYGFbxobHQ5AEMm4ve4b8604Xy2,0.0,7962.49,0.0,True,5 days 18:22:04.704194,player does not play!
+174,1wvM5FM8PmWWfnDe9t4hZ2LPbhQ2,0.0,5964.08,0.0,True,7 days 02:13:54.704194,player does not play!
+184,22Ofdl6Y8UR8EOhruxhelv2q2Up2,0.0,6125.19,0.0,True,4 days 19:18:44.705192,player does not play!
+192,25cJcjZ04khIoRM0h3wOkY2b5Zg1,16.56,5289.04,125.0,True,8 days 10:27:37.705192,"this player play time is only 2.26% of average, churn level is 448.77"
+209,2Hqt0jHJtzOMkz2J4SStAnrzNh12,0.0,8389.88,0.0,True,5 days 09:37:52.705192,player does not play!
+217,2PyyksLtURQdxVaaOkVyoipKVKg1,6.72,5667.78,1387.0,True,6 days 17:36:40.705192,"this player play time is only 0.86% of average, skill is 56.45900086852238% of average, churn level is 5875.27"
+219,2R5PPNVRrjMsl4tbfl8rqSivUE73,5.51,5944.07,9.0,True,7 days 18:06:33.705192,"this player play time is only 0.67% of average, skill is 48.32061718369465% of average, churn level is 490.93"
+222,2SsJk1iLZyeQ2t2aSUExZycfWw42,0.0,7496.75,0.0,True,4 days 23:40:27.705192,player does not play!
+240,2gMy6A3OzdO9uMIFQJ6RYb0DXgC3,0.0,10041.74,0.0,True,7 days 06:28:59.705192,player does not play!
+259,2uzXW0K3slQGu4TUDC0nzgXfVVq2,0.0,4529.740000000001,0.0,True,8 days 07:26:10.706189,player does not play!
+272,34fpKPupGLdfjTkTn92JT0s8kuI2,21.06,7214.49,34.0,True,4 days 21:06:56.706189,"this player play time is only 2.11% of average, churn level is 86.98"
+276,35lDPYRVNTMng0hGLp6QUJaQ4XP2,0.0,9993.35,0.0,True,8 days 03:58:26.706189,player does not play!
+287,3CF5g8eWGtgcHmS2Jlsp50eW2pX2,0.0,4834.0599999999995,0.0,True,8 days 08:51:03.706189,player does not play!
+288,3DPOOy8yhoerAKvC5m9M3zR9Evh1,9.93,50.2,365.0,True,5 days 19:55:22.706189,this player churn level is 9.82
+291,3F8OIMfhiJRI9LN8VlYLrxsRIKx2,2.4,7430.610000000001,18.0,True,7 days 13:55:51.706189,"this player play time is only 0.23% of average, churn level is 5163.31"
+292,3FAVvj8cAWYR4Ab66xTaUgznzv32,6.61,5154.71,40.0,True,4 days 20:13:23.706189,"this player play time is only 0.93% of average, churn level is 488.95"
+296,3Ij7qIa5MdNeylokk4r5ajxGuEw1,4.25,4.89,3185.0,True,6 days 21:36:09.706189,this player churn level is 0.74
+302,3N6L0F3fxAfEhT4zLzUwBwfdtzG2,12.62,7172.990000000001,33.0,True,4 days 21:51:41.706189,"this player play time is only 1.27% of average, churn level is 438.94"
+321,3eVIFM6ZGOQkHhZJkS1CjkQiFIy2,0.0,4309.65,0.0,True,5 days 15:20:36.706189,player does not play!
+326,3h5Hx8OaQiarEIXfgXeIeOIa1Nt2,0.0,7325.48,0.0,True,5 days 04:07:54.707186,player does not play!
+328,3jQBNDwEBPULSkKPlz7msfBawwE3,0.0,9209.48,0.0,True,7 days 23:43:06.707186,player does not play!
+330,3kANZxFwFJgb2EJnJ3EfD37DbKH3,0.0,5240.14,0.0,True,7 days 21:08:26.707186,player does not play!
+336,3o6rIiI6PiZZAHmZ1hUQLdMoUo53,16.74,240.67,1163.0,True,8 days 08:49:01.707186,this player churn level is 26.05
+350,3zrRYyfLZFajpmajSugaBE2Z5Sl1,0.0,8939.73,0.0,True,5 days 21:26:25.707186,player does not play!
+356,44jHtXUNM6MQO6asl3Q4zr9aSrN2,0.0,6320.63,0.0,True,4 days 22:24:50.707186,player does not play!
+359,46oLRP3TaNgkN9F8TYOdVSBLgGZ2,0.0,8706.24,0.0,True,7 days 11:17:02.707186,player does not play!
+365,4B7iIkeP9uUhxxtdI8LSlqlQTSz1,0.0,8622.15,0.0,True,5 days 01:32:11.707186,player does not play!
+379,4Lmth1tERfOkwtNJcVbBRdSe4py2,0.38,4215.47,2.0,True,8 days 06:23:39.707186,"this player play time is only 0.07% of average, skill is 58.97116742092912% of average, churn level is 440604.72"
+387,4U9w4ntPQwhXalFfx7tWbgfUdFa2,0.0,9943.14,0.0,True,4 days 20:41:39.707186,player does not play!
+399,4dycIs33cBVJwmIlgAVdoQ5YkIy1,89.18,2557.64,1000.0,True,5 days 10:04:49.708185,"this player play time is only 25.21% of average, churn level is 107.96"
+413,4r6bAqbwHUSBrWbFHm0BSLZgrCZ2,0.0,7037.37,0.0,True,5 days 21:11:04.708185,player does not play!
+421,4ux5xma1fEUVuCNrqASndVoMHr93,0.0,4292.45,0.0,True,7 days 02:56:19.709152,player does not play!
+436,51yBYCVOytWoDrS1utRQaTg74zp2,0.0,5949.03,0.0,True,4 days 22:33:46.709152,player does not play!
+449,57rKLIG00zM9ekomi4M5zqDjkkY2,1.2,5939.610000000001,813.0,True,4 days 23:16:28.709152,"this player play time is only 0.15% of average, churn level is 5217.97"
+452,58KOLFCTpZXQyJm8zYIPjsDKRF72,0.0,8666.28,0.0,True,5 days 08:08:48.709152,player does not play!
+462,5F4umS2LOvWVew8jg7RxTNHb3X23,0.0,1513.26,0.0,True,5 days 13:53:16.710188,player does not play!
+474,5NMA0uCHz7VBdzS880LTFJm3qRO2,8.82,9036.11,9.0,True,4 days 17:45:26.710188,"this player play time is only 0.71% of average, skill is 34.46687437478452% of average, churn level is 2752.88"
+478,5PVViXfPzTUO6UwAxS5M5h5YuFh2,0.0,6999.38,0.0,True,4 days 22:18:30.710188,player does not play!
+484,5TU5VDfSyrhSopTL3PlS2AQc71w2,5.07,5335.43,25.0,True,4 days 20:36:30.710188,"this player play time is only 0.69% of average, churn level is 310.09"
+507,5gbguCdNMng7gmteoiqMBgbnHfu1,28.76,4484.67,29.0,True,5 days 06:23:33.711176,"this player play time is only 4.64% of average, churn level is 313.89"
+514,5pWJCumB9ehof0TPZ3uhEenLkK32,0.0,6986.24,0.0,True,7 days 04:28:19.711176,player does not play!
+521,5uhh5N5KXrZNRykxRMjehSL9n4k1,8.35,7210.2,32.0,True,5 days 00:48:06.711176,"this player play time is only 0.84% of average, skill is 175.86069307227982% of average, churn level is 2017.06"
+525,5yW8tEsJnuRGcceCc63YLl6BsBl1,5.48,5749.2,12202.0,True,8 days 03:45:59.711176,"this player play time is only 0.69% of average, churn level is 4377.63"
+526,60BkKE8C3bemUglAmNZ5Hn7MsfK2,0.0,4191.11,0.0,True,7 days 02:10:48.711176,player does not play!
+530,61ZTl9RXp5NcIL0YXAI0dGKhSpj1,0.0,7864.97,0.0,True,6 days 05:49:24.711176,player does not play!
+532,64MwODd1GbWnAyD0hGPxgnUeYLm1,0.0,4559.37,0.0,True,6 days 01:51:34.711176,player does not play!
+545,6CvMEktbp2VqU87FTbcWbKbtnrR2,5.13,7202.12,9.0,True,6 days 03:20:02.711176,"this player play time is only 0.51% of average, churn level is 8831.33"
+556,6M4Ap5ketaTW8Otu7qKfgZz9XsJ2,5.35,6692.64,23.0,True,6 days 09:31:40.711176,"this player play time is only 0.58% of average, churn level is 1574.17"
+566,6UvUNqBcaZbfx0suatL2NzasFpu2,4.56,8524.87,11.0,True,7 days 05:55:24.711176,"this player play time is only 0.39% of average, churn level is 3815.19"
+581,6i4W33jxTxgccJIq9sm66jObsTg2,0.0,4210.9800000000005,0.0,True,7 days 23:36:51.712171,player does not play!
+585,6mLjmlRTVaZfUVqbK0iW2nrPudz1,0.7,7694.52,6.0,True,5 days 09:43:41.712171,"this player play time is only 0.07% of average, skill is 23.7744827011543% of average, churn level is 7300.84"
+588,6mzd5cgeD3ddOeNpTzIvdfTKvpG3,0.0,4343.2,0.0,True,8 days 01:47:20.712171,player does not play!
+589,6nq03Xu7eWWeWHJEbwXQXbFvQ1h1,3.78,5352.96,46.0,True,5 days 08:36:36.712171,"this player play time is only 0.51% of average, churn level is 5688.04"
+601,70zBTkRLrjNicoBmDVS0ROPKJH62,0.0,4540.56,0.0,True,6 days 00:43:39.712171,player does not play!
+607,72tuWIs814TOvYKvCi39wlUYBMw1,0.0,4698.87,0.0,True,5 days 07:18:37.712171,player does not play!
+617,7C62DGWdUngWljXPtjfqet5QaYQ2,0.0,4383.79,0.0,True,6 days 20:30:09.712171,player does not play!
+635,7LKAHXAb4CPONvuGSWC0nLF9uBj2,0.0,7080.76,0.0,True,5 days 13:02:14.712171,player does not play!
+643,7NnQZrt496a9sywmVT0vo5Iz0602,0.0,4050.49,0.0,True,7 days 04:52:27.712171,player does not play!
+647,7Pt4pnyU7XRz9o2VCchfdsgAZV72,0.0,4049.88,0.0,True,7 days 04:40:03.713170,player does not play!
+684,7penSTC86qgjPgx2XS2t2mFEf0m1,0.0,4303.629999999999,0.0,True,7 days 13:27:48.713170,player does not play!
+693,7v7cYkzGafNkXBjIuGQe8DeiLi32,0.0,4730.73,0.0,True,8 days 01:18:22.713170,player does not play!
+698,7zEwkcLUrZN6ehTzAsrfD0iZJR62,0.0,4665.65,0.0,True,7 days 03:37:53.713170,player does not play!
+701,825PonG92Keryg6YgmeHzZ13BTs1,0.25,4384.29,1.0,True,4 days 21:29:56.713170,"this player play time is only 0.04% of average, skill is 13.898928348367134% of average, churn level is 4575.17"
+714,895RO783RDcAXCNLHpSVSdLUzJI2,0.0,6108.63,0.0,True,6 days 00:13:48.714168,player does not play!
+716,8DKOvUMpD6OZlMhaEtBvxsoEfvI3,0.0,5481.39,0.0,True,6 days 02:03:31.714168,player does not play!
+730,8KSR0rFPHgZn6UBCBl7ddgiZ2W33,0.0,6413.4800000000005,0.0,True,7 days 16:01:05.714168,player does not play!
+731,8KTaNmJ6Ssdwueo3EKo3uJGDDcA2,6.3,5950.94,13.0,True,5 days 11:58:04.714168,"this player play time is only 0.77% of average, churn level is 430.49"
+735,8MIDzTHes0WgGdFXv8hwcaEVHpu2,0.0,5795.78,0.0,True,4 days 16:08:24.714168,player does not play!
+741,8PPM61L50GTcEU0IYXvhYXuVohQ2,0.0,8058.94,0.0,True,5 days 07:01:28.714168,player does not play!
+753,8a8bXD9uenU9AGg0hdrZCYqVE392,0.0,7551.26,0.0,True,5 days 03:49:15.714168,player does not play!
+783,8zUzOD5DjWNEbPQCocgeGRam4Fk2,5.19,1383.86,74.0,True,7 days 06:15:04.715170,"this player play time is only 2.71% of average, win 49.59% of average, churn level is 129.39"
+798,96sMOwZcNVZRONPuU7byK0eRVhc2,33.98,4246.08,29.0,True,4 days 23:13:31.715170,"this player play time is only 5.79% of average, churn level is 506.83"
+803,99FZUz5CdyeJrnSgITffceORgdd2,7.64,8765.4,57.0,True,5 days 21:49:44.715170,"this player play time is only 0.63% of average, churn level is 3674.93"
+813,9FTrcuOv5GPE3E1GO1fw0nBop7x2,5.35,7456.2300000000005,18.0,True,5 days 01:30:42.715170,"this player play time is only 0.52% of average, churn level is 1115.78"
+823,9MkpPeFNBWWdZQA9zOqKDRuBhH22,0.0,4467.16,0.0,True,4 days 20:45:58.715170,player does not play!
+841,9aYOb4XV0XRqiWfjWBMRK5pzLkQ2,0.0,4231.45,0.0,True,5 days 04:12:22.715170,player does not play!
+843,9bS8OvDOctgkq6t3QIecYsT55Ly1,297.92,6056.1900000000005,90.0,True,5 days 02:14:50.715170,"this player play time is only 35.56% of average, churn level is 14.74"
+859,9sBbp42DRLTeXDYQoB8ajto91L92,0.0,5095.94,0.0,True,5 days 06:40:41.716163,player does not play!
+865,9wf6kq3KprgswgxyxsPqEBKNSWz1,0.0,4320.71,0.0,True,5 days 08:22:40.716163,player does not play!
+867,9xXDoqampLOz12E8eS6WQXfEEjC3,0.0,5684.740000000001,0.0,True,6 days 09:18:15.716163,player does not play!
+883,A8ceZp2anPVcKLoKVNMRUWAMZjj2,0.0,6587.11,0.0,True,5 days 04:32:01.716163,player does not play!
+906,ANtKst9psGVsskZKFwvGJMaVVba2,0.0,8991.06,0.0,True,5 days 06:14:35.716163,player does not play!
+909,ARUQZLmMV8bLwPI1olqXv1PHe2a2,4.42,5476.74,11.0,True,7 days 04:06:33.716163,"this player play time is only 0.58% of average, churn level is 379.64"
+926,Af50W53P4LVg5c9bnNtEkrou8RK2,9.33,5882.37,17.0,True,5 days 07:41:35.717162,"this player play time is only 1.15% of average, churn level is 1845.44"
+939,AsHqNqpvkQPlgKcnLuibi0i5uzX2,0.0,4446.69,0.0,True,5 days 11:02:27.717162,player does not play!
+958,B6ncDSfY25bvaU4KswBHJcceppq1,0.0,6331.41,0.0,True,4 days 23:56:27.717162,player does not play!
+961,B8hCgujTW4bO9GNFB1zoTiOy2UA3,0.0,7284.2,0.0,True,6 days 08:52:00.717162,player does not play!
+975,BF3dJhPco2gIp4MzWKd6U4G5rYI2,5.61,9702.810000000001,5.0,True,7 days 06:49:03.717162,"this player play time is only 0.42% of average, skill is 37.53656159388947% of average, churn level is 17615.41"
+977,BH32wdzLU7fIeUBfwokCEFLEF9t2,0.85,4444.0599999999995,2.0,True,5 days 21:43:07.717162,"this player play time is only 0.14% of average, skill is 24.762784588009197% of average, churn level is 46105.57"
+979,BJFypfWjsDQ8IncI4mLWHkwJXl72,32.78,5637.88,34.0,True,5 days 18:45:11.717162,"this player play time is only 4.2% of average, churn level is 380.93"
+993,BOzYfb0eG5VqGmGveFBf0byYSOJ2,0.0,3990.5699999999997,0.0,True,7 days 00:58:23.718157,player does not play!
+1004,BVQXbhauafQnxDtK7duD8Upaj503,0.0,4110.16,0.0,True,7 days 03:06:16.718157,player does not play!
+1008,BaPlRnypq5hUMLLb1SgDKvXveuY2,0.0,4297.860000000001,0.0,True,8 days 03:01:50.718157,player does not play!
+1012,Bd4l34gcs3Pn9IxLuaW7b19fWNO2,0.0,4519.150000000001,0.0,True,5 days 16:59:30.718157,player does not play!
+1019,BkTDh5fkCGQL5QH17PpniK9jkpN2,0.0,4188.509999999999,0.0,True,7 days 10:29:48.718157,player does not play!
+1039,Bxbc5gYmqOduySS26WHMkVYdqil2,0.0,7524.05,0.0,True,4 days 23:03:00.718157,player does not play!
+1050,C26DMFJoajgm9YajdP12gplHZuP2,0.0,5347.32,0.0,True,5 days 12:18:05.718157,player does not play!
+1067,CHBM0rRcQXWMGNqw3Aub5ijkt1X2,3.45,1691.1599999999999,243.0,True,6 days 23:04:54.719155,"this player play time is only 1.47% of average, skill is 50.72206319339174% of average, win 0.0% of average, churn level is 652164.65"
+1074,CLpGvwufbSacT8qrKDxtlcmyqtx1,1.87,10020.7,11.0,True,7 days 02:51:07.719155,"this player play time is only 0.13% of average, churn level is 21187.33"
+1101,CegU7Wf7TTMXaVyjXvzhTDMjRuw1,0.0,8767.359999999999,0.0,True,7 days 02:18:50.719155,player does not play!
+1102,CfBB3r3bXCRCaEn0FHMw1JwWSWO2,0.0,8964.470000000001,0.0,True,7 days 00:49:45.719155,player does not play!
+1120,CuMojE0LFqXo5Uv3tsYSNirSL1X2,0.0,9135.460000000001,0.0,True,5 days 22:22:27.719155,player does not play!
+1128,D1uBEIBCpeVWvS5kPI9B6TpHBy63,41.43,2484.86,31.0,True,5 days 02:19:47.719155,"this player play time is only 12.05% of average, churn level is 19.36"
+1149,DEQ60az7ZDSZtzZuuJ0bdTcID4j1,0.0,9595.140000000001,0.0,True,8 days 10:48:55.720149,player does not play!
+1153,DFdWPFtCD6X3a7jcCU83fB1XlvT2,0.0,4327.39,0.0,True,7 days 08:51:26.720149,player does not play!
+1200,DinQ5dMxG9NyMXeDuVysWbcxOpq1,23.8,5242.01,25.0,True,6 days 17:18:57.720149,"this player play time is only 3.28% of average, churn level is 39.95"
+1201,DiuWMYTls4XgW7Hmel4tC3ftnF72,1.58,4311.84,1.0,True,5 days 00:38:58.721155,"this player play time is only 0.26% of average, skill is 8.081095203546125% of average, churn level is 741.08"
+1203,DjfQ3ZjO4SXDKJzQBhPH6k25WjB3,0.0,4260.51,0.0,True,7 days 09:16:05.721155,player does not play!
+1205,DkF5GUOY8oSPVrQYwYgncPeRMMI2,272.33,3812.6,415.0,True,6 days 04:07:08.721155,this player churn level is 49.72
+1209,DnQZFtQ1GAewOogTTxmN1QmL38s2,0.0,4345.56,0.0,True,5 days 23:49:23.721155,player does not play!
+1215,DpcFjP36VRbkg3o6ieHxjOJdHJF3,2.87,9820.41,17.0,True,7 days 18:12:24.721155,"this player play time is only 0.21% of average, churn level is 1208.31"
+1228,E1l5uDnGoUQHR8jAWqg2no55nR03,0.0,4369.88,0.0,True,6 days 04:48:25.721155,player does not play!
+1232,E3K0Yc1bFueKdz7sVQT9Wo59sZF3,0.72,5097.9800000000005,11.0,True,5 days 09:39:32.721155,"this player play time is only 0.1% of average, skill is 183.66441031770853% of average, churn level is 21530.56"
+1233,E3sAEWEifsVGpTnipczt9bmqmF52,0.0,8961.96,0.0,True,7 days 02:59:09.721155,player does not play!
+1235,E4lA8Q6R2QYmp6zi2BNVtCTqtis2,0.0,7112.21,0.0,True,4 days 23:20:30.721155,player does not play!
+1239,EBEanMVVkGObx3UojSO4aBGA8My1,3.3,5307.54,29.0,True,5 days 01:25:43.721155,"this player play time is only 0.45% of average, churn level is 1461.12"
+1252,EJxTyRqOowOxNu8g0CBWgwTqUPG3,20.86,1446.77,154.0,True,4 days 19:47:03.721155,"this player play time is only 10.42% of average, churn level is 259.44"
+1258,EOp2igPUr3SrtpdNmCVUiOHruN82,1.93,5469.83,6.0,True,6 days 03:16:12.721155,"this player play time is only 0.26% of average, skill is 15.785211481359815% of average, churn level is 1121.69"
+1277,EZASO0hyfoc4aeveQ9bDDQ2AvU92,0.0,4207.610000000001,0.0,True,5 days 23:07:47.722152,player does not play!
+1279,EZdr0565U7TSwNCQZPz6rcbqNpu2,0.0,8862.78,0.0,True,4 days 15:37:13.722152,player does not play!
+1292,Eknm3CMahbgERaFzUHqsrs4rCGF3,0.0,10082.08,0.0,True,5 days 05:20:03.722152,player does not play!
+1293,EkrBo9ifNnVPg3CTH1kDRIXelTM2,0.0,4336.06,0.0,True,6 days 09:14:43.722152,player does not play!
+1316,F6VpIVQTQVfe9FvfZYKpznFNLaS2,0.0,5297.12,0.0,True,5 days 03:06:30.722152,player does not play!
+1319,F9kQUqQu1YSymt5lW1I82gbt7lR2,3.25,8710.48,28.0,True,4 days 15:02:22.722152,"this player play time is only 0.27% of average, churn level is 676.93"
+1332,FMNTJMDhaVgmlGiByC8AQe27lpv1,6.66,6805.95,14.0,True,6 days 10:43:27.722152,"this player play time is only 0.71% of average, skill is 179.17370182597975% of average, churn level is 2692.93"
+1342,FTSOpf9Rj2RCWbYTisREzMfxWrj2,0.9,4152.9,9.0,True,6 days 23:33:36.722152,"this player play time is only 0.16% of average, churn level is 92496.44"
+1343,FTSXnQGdwdP8pJ84FeIId5vDi4y2,0.0,6324.18,0.0,True,7 days 19:33:16.722152,player does not play!
+1345,FUogxQlUOeTvo3eWowyXAnhqPLK2,0.0,7999.42,0.0,True,4 days 14:20:57.722152,player does not play!
+1348,Fa0Zvezq2SWl39HDjwuLOUCYVN22,0.0,7086.32,0.0,True,4 days 19:01:41.723149,player does not play!
+1354,Fd06moyyh8NPLTqHtqUq61if9Ms2,0.0,5584.04,0.0,True,8 days 08:38:14.723149,player does not play!
+1365,FjAl0C9ttkS8fhi6R0o1ccc3l9V2,0.0,4732.1900000000005,0.0,True,6 days 01:33:00.723149,player does not play!
+1375,FpTH05GMS5V333qDIXW2ZtEcYuq1,4.38,7336.26,32.0,True,6 days 18:39:04.723149,"this player play time is only 0.43% of average, churn level is 1959.52"
+1382,Fw7lLiW9RQaQD9btmKmFm09de3h1,7.13,5142.099999999999,18.0,True,5 days 08:52:12.723149,"this player play time is only 1.0% of average, churn level is 59.32"
+1387,FxphIETsB4gV4aEhrrOmAZNsv5B2,0.0,9140.56,0.0,True,6 days 01:58:28.723149,player does not play!
+1395,G686tCwGLvhk9lNdMUVrs6oUXwh2,2.55,7123.57,42.0,True,6 days 07:38:59.723149,"this player play time is only 0.26% of average, churn level is 10526.31"
+1424,GRBrWwtFS7WW1V5AbzxSo5p6mBw2,0.0,5819.96,0.0,True,6 days 07:16:53.724148,player does not play!
+1446,GjOB52xRQZgtIMU9fFw7lHS249u1,0.0,6159.55,0.0,True,5 days 01:12:45.724148,player does not play!
+1461,GzGcIAEjxIgjcN26tGK3qhjtWvH3,0.0,6449.58,0.0,True,6 days 11:03:02.724148,player does not play!
+1463,GzVY8PicqEh4ZNVXLGubKBZ98vl2,0.0,7311.96,0.0,True,6 days 02:54:35.724148,player does not play!
+1477,HAcTJ85tkIdcTNn49KoWXyv8D3i2,0.0,6100.24,0.0,True,5 days 23:54:27.724148,player does not play!
+1489,HE9oaD12zKQhq7tMkX7EUCfq3Kd2,0.0,5287.099999999999,0.0,True,6 days 02:54:50.725147,player does not play!
+1496,HKNa1M1H8qOE1bxvilVrg3tWyZI2,0.0,7319.62,0.0,True,4 days 16:34:32.725147,player does not play!
+1500,HLu570c25mduhtmeGQuXqsXCrqm2,0.0,4255.88,0.0,True,8 days 08:14:04.725147,player does not play!
+1545,HstNWNj3DUWrKuxjW8zL9gAP68N2,3.83,5348.25,320.0,True,5 days 05:18:59.726111,"this player play time is only 0.52% of average, win 0.0% of average, churn level is 246625.32"
+1551,HutvKxK96GUwElAeWUItuJkPmqU2,0.0,4693.76,0.0,True,8 days 06:22:49.726111,player does not play!
+1562,I78g1q7pudY97TqdXuYgyIoey4r1,0.0,5991.94,0.0,True,6 days 06:31:01.726111,player does not play!
+1577,IIigWRPU6jbz71tYj4n8lxOv2E93,1.4,5199.55,2214.0,True,5 days 00:44:47.727099,"this player play time is only 0.19% of average, skill is 60.48870347529165% of average, churn level is 21913.08"
+1579,IJLDtTEL6tRTp2tOPoeTSORbNmn2,0.0,5533.92,0.0,True,6 days 07:22:01.727099,player does not play!
+1585,IQXQoBSMGoZMtfJwFNhHgksn6al2,0.0,8580.859999999999,0.0,True,8 days 04:57:46.727099,player does not play!
+1586,IS7JfuZcnDXIqMteimeX1Z1th6H2,0.0,7148.53,0.0,True,5 days 04:12:42.727099,player does not play!
+1617,IlTsh5mHF8cNZl0IUG5UzKM2LRs2,130.9,3400.0699999999997,71.0,True,4 days 21:25:05.728096,"this player play time is only 27.83% of average, churn level is 77.18"
+1618,ImEUjPD2NrR7U3CHvN5oQz66UPY2,0.0,6936.629999999999,0.0,True,5 days 07:04:43.728096,player does not play!
+1642,J5PEHN8FyybPATMnP0nVlH6PKgz1,0.0,9061.45,0.0,True,6 days 10:03:02.728096,player does not play!
+1653,JCH2xcIIZ8h7yQTJKJNppkth8Ou2,1.13,1960.49,4795.0,True,5 days 16:11:03.728096,"this player play time is only 0.42% of average, churn level is 5970.68"
+1660,JHYREAEIQ6b6wSHUkq7STeWPt6F2,0.0,5755.530000000001,0.0,True,5 days 07:37:14.728096,player does not play!
+1668,JNmil0xVQ2ZY5AdCbhhAteqS1Rq1,71.28,1464.24,52.0,True,4 days 13:34:45.729093,"this player play time is only 35.19% of average, win 16.53% of average, churn level is 518.25"
+1680,JTlYiSVTnPc0erUIwc5gr1X6diY2,0.0,10105.02,0.0,True,7 days 21:58:57.729093,player does not play!
+1704,JlFnhfpA7DdZP0HEocu14CiQgY63,1.78,6413.75,6.0,True,4 days 23:34:57.729093,"this player play time is only 0.2% of average, skill is 24.0749294605645% of average, churn level is 1417.5"
+1718,K4K84yAx1IZB3BlpNBpf78lY7GG2,0.0,5959.2300000000005,0.0,True,7 days 00:34:37.730090,player does not play!
+1732,KJkhsMZ2SydOnxCr8auusv4gmea2,0.0,8934.37,0.0,True,7 days 07:07:22.730090,player does not play!
+1735,KOJyNfDydGUUCeUl6bMQ8skbQYs2,0.0,9068.32,0.0,True,5 days 10:31:15.730090,player does not play!
+1736,KOcFKxIw8QUaawBpyZszFNLOJCb2,0.0,5039.21,0.0,True,7 days 20:48:11.730090,player does not play!
+1738,KPpJIwjdEgcSm60May5g7188xR13,6.23,3184.23,1728.0,True,6 days 19:22:41.730090,"this player play time is only 1.41% of average, skill is 52.362085165481076% of average, churn level is 4200.21"
+1749,KWZZs74bv0RF1Un3SIpMsFCHHFN2,0.0,6555.46,0.0,True,8 days 09:08:08.730090,player does not play!
+1752,KXxztvlc9MbOc9zgGvkEG0maliB3,0.0,4442.76,0.0,True,5 days 18:45:50.730090,player does not play!
+1753,KZXWh6TP4rdDPY8bC6taOuDIi1B2,0.0,5737.26,0.0,True,6 days 03:48:14.730090,player does not play!
+1781,KulsTjVAk9ceZ69VqkxcGLHhMY73,0.0,4274.0599999999995,0.0,True,6 days 23:10:22.731088,player does not play!
+1790,L0Hy9Wk4iiMqTpU5VS0NVjb1bkf1,0.0,8630.54,0.0,True,6 days 01:28:21.731088,player does not play!
+1796,L2atfVsOhtX0988iWqdaTAZBsvz2,15.87,107.97999999999999,33469.0,True,5 days 11:13:01.731088,this player churn level is 11.36
+1799,L8JjZUn2bmbg5EFpcMkGFaC2jQf2,1.08,5510.52,6.0,True,5 days 08:26:47.731088,"this player play time is only 0.14% of average, skill is 11.613224184765228% of average, churn level is 15736.54"
+1801,L8XEweVRCyREYHvuMUlF0pl4err1,0.0,4595.75,0.0,True,4 days 19:59:14.731088,player does not play!
+1808,LDrPxbymkHXFC4D2JTWYmoMV42F2,8.13,5526.27,31.0,True,7 days 16:50:40.732085,"this player play time is only 1.06% of average, churn level is 2773.76"
+1815,LGnYggic78XjZfLublUcq7JwQn02,0.0,5508.7,0.0,True,5 days 23:10:47.732085,player does not play!
+1818,LJPfcyBSQQhwprr6BJJxjZsN8492,0.0,5767.23,0.0,True,7 days 22:32:34.732085,player does not play!
+1845,LioW8ecTo4UHpjFz2UoZEITUgPt2,4.26,8550.599999999999,4.0,True,6 days 00:36:24.732085,"this player play time is only 0.36% of average, skill is 13.571762015491606% of average, churn level is 7510.65"
+1851,Lns4FmMvtWP8STLn8FR0wEYIPFe2,2.48,4318.099999999999,28.0,True,5 days 07:27:31.733081,"this player play time is only 0.42% of average, churn level is 5088.23"
+1858,LrxKFnwiAgQvc5poQDd6np5BFuD3,1.37,6687.02,3.0,True,5 days 09:49:34.733081,"this player play time is only 0.15% of average, skill is 16.242993645214764% of average, churn level is 1681.14"
+1863,LttSFO2vKrTLVVrIwjoesXdXgWy1,0.0,6892.98,0.0,True,7 days 07:56:26.733081,player does not play!
+1867,LwMcqweLYET5NUDMjaekvB7ibZU2,5.3,4349.1,36.0,True,6 days 05:26:54.733081,"this player play time is only 0.88% of average, churn level is 704.6"
+1870,LyguvvFqDMPpajnc6j75WDOkBMH2,1.95,5160.05,10.0,True,5 days 21:01:22.733081,"this player play time is only 0.27% of average, churn level is 17396.02"
+1878,M4nYFHYlYPSxMWbtb7yGm9S7yTB2,0.0,4087.35,0.0,True,7 days 19:27:55.733081,player does not play!
+1881,M71o9Ig5KDOVraN8tndkskVdmRg1,0.0,4422.52,0.0,True,7 days 08:31:18.733081,player does not play!
+1882,M8YAMgtW1hSfNPpdpKtYoLlwspt1,35.77,5938.94,18.0,True,7 days 08:49:17.733081,"this player play time is only 4.35% of average, churn level is 396.66"
+1892,MECEwgVodOOGhTncnFrwMR5XZTO2,0.0,6713.37,0.0,True,6 days 20:47:11.733081,player does not play!
+1899,MJJkSQCrTMbIXjwsZ9joK0FyXO03,0.0,4771.92,0.0,True,6 days 02:35:14.733081,player does not play!
+1902,MLAmQjUSfLc1Gcfyp60B91y4cBH2,0.0,5255.110000000001,0.0,True,8 days 07:17:36.733081,player does not play!
+1918,MTpJ42bdoFhFiZh2dlKMJ9VuCmE2,5.51,4217.87,24.0,True,4 days 21:13:48.733081,"this player play time is only 0.94% of average, churn level is 833.43"
+1926,MaxcESH0h0aoC9YgkuisR81R86p2,15.2,4348.14,6.0,True,4 days 23:15:42.734078,"this player play time is only 2.53% of average, skill is 19.611356382701697% of average, churn level is 291.63"
+1934,McwU1JytkFXw1BJzw6BDoxl54AX2,4.33,7191.72,58.0,True,4 days 18:20:50.734078,"this player play time is only 0.44% of average, churn level is 2681.01"
+1936,MeY1DjZByDgJnsmeoVLIckG4LcZ2,0.0,9921.44,0.0,True,7 days 00:34:29.734078,player does not play!
+1943,MjpR42PWkmNLu1r650sekH0bITP2,0.0,8809.47,0.0,True,5 days 01:43:22.734078,player does not play!
+1947,MnGNTJ0ERahGmtINBgOyWaV2pl82,2.32,4237.360000000001,38.0,True,7 days 17:26:44.734078,"this player play time is only 0.4% of average, churn level is 1238.96"
+1975,N8P8akCVhIZUVEGiKl5JMRukwfn2,0.0,6556.17,0.0,True,7 days 09:33:35.734078,player does not play!
+2001,NPTlPXGn1cMU0FYitUwyHOtekXR2,0.0,5017.42,0.0,True,5 days 19:11:20.735075,player does not play!
+2002,NQpALJ1qhNforjwRqVgLeDzAgG92,0.0,10059.92,0.0,True,7 days 18:11:28.735075,player does not play!
+2003,NRLxEeb16EdBokEE7sMN8KI0MH63,0.48,7743.22,1.0,True,5 days 02:52:44.735075,"this player play time is only 0.04% of average, skill is 14.079433911332938% of average, churn level is 5572.52"
+2004,NSDy0YHjsHcMcBCsWV6OJaBQARf2,0.85,8850.02,7.0,True,4 days 17:48:20.735075,"this player play time is only 0.07% of average, skill is 6.041779057555509% of average, win 0.0% of average, churn level is 32940228.19"
+2019,NX6WDvnQIARyn5EdyAPMP1ngpVs2,0.0,7185.27,0.0,True,5 days 02:57:42.735075,player does not play!
+2020,NXGoodalNdfzdkl2q6Kwq2h8ugy2,0.0,7225.65,0.0,True,8 days 06:50:45.735075,player does not play!
+2021,NXON04aUndhbXtgHOTRTEeLE0v73,0.0,6250.4400000000005,0.0,True,7 days 00:53:49.735075,player does not play!
+2022,NYOMYadC7WYUDF0XOdbgjIjdzOh1,21.52,5084.88,46.0,True,4 days 23:49:01.735075,"this player play time is only 3.06% of average, churn level is 704.03"
+2029,Nbzj31uCJYVCHxAlvACTK0goHrk1,0.0,6025.0199999999995,0.0,True,4 days 23:56:35.735075,player does not play!
+2045,NlhXZlQ4FlSRXs1twfLPQBqylnx2,0.0,4503.46,0.0,True,8 days 03:28:16.735075,player does not play!
+2058,NvT8VRqOTzUuG1lqrnA4455agl63,0.0,6111.92,0.0,True,5 days 08:25:30.735075,player does not play!
+2061,NvwTvpl3A7h8BJEtPd8SV3i0gWY2,0.0,8882.1,0.0,True,5 days 15:16:02.735075,player does not play!
+2068,Ny5L0Nh0Z7gSai2cM3HtbiZtK7y1,0.0,5801.05,0.0,True,7 days 01:02:28.735075,player does not play!
+2095,OH4MheFPGzeGtZ2tWmWXW0y3kF63,0.0,7961.7699999999995,0.0,True,8 days 03:40:17.736073,player does not play!
+2099,OIL1Q4oH8BOg3RRsrsJp2vLleVH3,0.0,5664.650000000001,0.0,True,6 days 09:38:35.736073,player does not play!
+2120,OU4yRcG3asUrJsfQ6LnGHsFbTip2,0.0,5649.1,0.0,True,5 days 02:42:17.736073,player does not play!
+2122,OVvkyk6K2UV6J8A8LkXmlRV6Mhk2,0.0,7278.679999999999,0.0,True,7 days 01:31:23.736073,player does not play!
+2131,Oc4X9mlcGzLmIK0F4ulkuCZ3Pq72,0.0,5905.92,0.0,True,7 days 00:49:12.736073,player does not play!
+2133,Of8o7AU75DeGrQrFdckn57Y1q3X2,2.2,6873.65,1.0,True,5 days 04:20:36.736073,"this player play time is only 0.23% of average, skill is 3.54181185711286% of average, churn level is 44216.09"
+2141,OgugYmRH8jc9pZ4VoITeY6vvAzo2,0.0,7280.99,0.0,True,7 days 04:33:35.736073,player does not play!
+2142,OhOjEJRgZih2XL3H6FAsmevpaNB2,0.0,8561.119999999999,0.0,True,7 days 06:32:49.736073,player does not play!
+2147,OkouQxw4jFWjWsweNb3b8aiZug33,58.11,4856.8099999999995,46.0,True,5 days 14:32:56.737070,"this player play time is only 8.65% of average, churn level is 1.53"
+2165,OwlaJ76z7SN7JCR4DbBuTXcuQDD2,0.0,4148.61,0.0,True,8 days 02:34:19.737070,player does not play!
+2174,P29J1vfh6UNxl6Ij6AlBvKQqrgX2,0.0,5509.43,0.0,True,5 days 22:58:38.737070,player does not play!
+2190,PAJ9jx3M9IbJIsfgSBQFOwun3043,2.15,5876.77,28.0,True,6 days 04:50:19.737070,"this player play time is only 0.26% of average, churn level is 7168.34"
+2192,PCW416kQX5cEcl0NNwhltOPM09l1,0.0,5558.3,0.0,True,6 days 08:17:45.737070,player does not play!
+2219,PPM9G4QK2sOSGfn4dasklh6Zgzz2,3.31,4152.87,6.0,True,5 days 12:29:20.737070,"this player play time is only 0.58% of average, skill is 30.994610216858703% of average, churn level is 2837.96"
+2230,PUhadBckIUS8H2QfIhBbgogGbMu1,0.0,7229.61,0.0,True,6 days 01:10:20.738067,player does not play!
+2240,PcKSVFccivU5sjlUryJLumOxGa63,11.09,4906.77,16.0,True,5 days 20:00:45.738067,"this player play time is only 1.63% of average, churn level is 1086.58"
+2253,PiYLffP2ypgu9JN7UnM2lxW5SU92,5.83,7607.48,29.0,True,6 days 00:50:38.738067,"this player play time is only 0.55% of average, churn level is 1106.65"
+2263,PnfYz41X2RY5CXWP19UuadErHY52,0.0,4639.27,0.0,True,6 days 06:03:27.738067,player does not play!
+2273,PtsFdQJpqHWQFH2WYG9hGhNwqex1,0.0,4363.860000000001,0.0,True,5 days 15:33:41.738067,player does not play!
+2286,Q44zLYSf8oQnspAmK4M13buSJsI2,3.85,2709.94,26.0,True,4 days 22:59:44.738067,"this player play time is only 1.03% of average, churn level is 2225.14"
+2290,Q4xlPjqLHec2H0mNnv6AmMXFGIT2,6.28,6796.2699999999995,16.0,True,5 days 02:23:43.738067,"this player play time is only 0.67% of average, churn level is 3602.02"
+2303,QGaOxqYzK7aFn6qWrf8yKEDac5s1,0.0,4213.320000000001,0.0,True,5 days 13:12:47.739065,player does not play!
+2310,QJWnEKTKYhUhTqVN3Fn1G2PbueN2,0.0,7220.19,0.0,True,7 days 09:49:13.739065,player does not play!
+2340,Qgc17b60uqYRQGQwcGCToxrjORQ2,2.29,7541.08,7.0,True,6 days 03:32:13.739065,"this player play time is only 0.22% of average, skill is 19.40886065789839% of average, churn level is 905.96"
+2342,QhOnfh9UIFQ8EX7AIWUaFmcvdY22,0.0,7109.2300000000005,0.0,True,5 days 00:24:52.739065,player does not play!
+2345,QlKjDdEoTOeM2CaAwIkcmc6c3l02,0.0,4299.41,0.0,True,5 days 10:04:40.739065,player does not play!
+2363,QzFRWIXDF9VzkJOOvlfaQNqRjeJ3,0.0,4582.91,0.0,True,6 days 19:50:59.739065,player does not play!
+2368,R2mzUSjJHqMJAJ33Qw4cqUXiGdW2,0.0,7722.21,0.0,True,5 days 22:45:17.739065,player does not play!
+2370,R3wz9JimCXOStwb1d2P0hzQLLTz1,0.0,8988.08,0.0,True,6 days 14:17:51.739065,player does not play!
+2382,RCUCpAnWGAO1B6s84utVTWPFM0h2,0.0,9181.76,0.0,True,6 days 22:51:56.740062,player does not play!
+2396,RO6aII9JbkV3kuwlAktCbGjOsh52,0.0,5607.54,0.0,True,4 days 16:42:46.740062,player does not play!
+2407,RVjeKHji0TgmVwnXO8G7MCN8RC52,1.2,4111.22,17.0,True,5 days 20:31:33.740062,"this player play time is only 0.21% of average, churn level is 1636.32"
+2421,RgBukuuyAAQmAF6GZ4OSJA15GqI2,2.16,4074.7,4.0,True,4 days 20:15:54.740062,"this player play time is only 0.38% of average, skill is 16.36847008169308% of average, churn level is 3246.43"
+2426,Ri2aP4vHUvVEtKDDkw2bZBiP1Kk1,0.0,5095.0,0.0,True,5 days 17:35:23.740062,player does not play!
+2430,RlJhZeVNklhiHVRDLRmClZm3V5J2,0.0,5761.41,0.0,True,6 days 01:14:43.740062,player does not play!
+2435,Rp6E5PpyulegIfvZH8Gtkm9Mxns1,0.0,5465.179999999999,0.0,True,8 days 03:14:37.740062,player does not play!
+2443,Rutj7TWsmgW1QJC710kSzUyj81h1,0.0,8854.56,0.0,True,5 days 11:14:57.740062,player does not play!
+2450,Rw2pC5EOm1bpBmMjvB7k3pwLdDz2,7.77,6181.28,15.0,True,4 days 16:25:11.741059,"this player play time is only 0.91% of average, skill is 58.07766488424837% of average, churn level is 5186.95"
+2454,RxpQ0ZSdKGVnPUtnuFO9SCuWJcT2,0.0,5711.15,0.0,True,6 days 10:16:16.741059,player does not play!
+2462,S0iIlgySS4UWov4KKkca6AHznVX2,26.6,3829.33,138.0,True,5 days 04:15:15.741059,"this player play time is only 5.02% of average, churn level is 62.04"
+2513,SUWI8OG1OhgqOW5iEOaDg3Jtjwh1,0.0,4218.78,0.0,True,8 days 05:32:57.742059,player does not play!
+2529,SdV2zm6ILvhHbqlGfmjQjcHndOv2,0.0,4270.03,0.0,True,7 days 06:26:29.742059,player does not play!
+2552,Sz7JDTqGqHZl5CMTLmHVnu21Hna2,0.0,5687.59,0.0,True,4 days 22:59:22.742059,player does not play!
+2585,TNiXAXmNrKZdyP68kz5L4UPDwq92,0.0,6226.45,0.0,True,4 days 23:55:37.743093,player does not play!
+2593,TTXK3HrjDbOU4vrYBkU0rivVDTC3,0.0,6299.16,0.0,True,5 days 00:17:36.743093,player does not play!
+2595,TV1RoMlhCNRXzcKMI05ALChSsLh2,0.0,5636.28,0.0,True,7 days 00:25:10.743093,player does not play!
+2600,TZBXGtp4tpUxoTV3mFXNgN7LUfh2,0.0,8427.79,0.0,True,6 days 03:57:43.743093,player does not play!
+2602,TacgrL9Z2Yg5mQERpvZtcXZwaPQ2,0.0,6436.17,0.0,True,4 days 18:29:36.743093,player does not play!
+2617,TmcMxPYO0saoQsQNjgeuGvazjhZ2,0.0,9267.58,0.0,True,7 days 19:51:26.743093,player does not play!
+2621,TqZG49Z4SQYr1ffKLX1R8fmen433,0.0,8097.780000000001,0.0,True,7 days 21:11:52.743093,player does not play!
+2641,U2ao0o2NHHaSxMikejYDwpSShgZ2,0.0,4359.32,0.0,True,7 days 01:52:01.744085,player does not play!
+2654,U9IQcCEep5a4Af8ui46ckfy1eor1,0.0,7656.93,0.0,True,4 days 21:30:52.744085,player does not play!
+2670,UDnwISsYtXewCTS77lsIgaI4w8E2,3.33,8437.160000000002,26.0,True,6 days 03:10:34.744085,"this player play time is only 0.29% of average, churn level is 4016.91"
+2673,UGDIKCY4BzXa8bmBU3zTErXtVXt1,1.97,7430.099999999999,27.0,True,6 days 02:59:22.744085,"this player play time is only 0.19% of average, churn level is 4888.79"
+2677,UKmWyj4LJSfnDf8S2i1hKX2jOvb2,0.0,6059.370000000001,0.0,True,6 days 23:07:57.744085,player does not play!
+2688,UT6rD5Sy9mQEnA19gFXwvQzoRNQ2,5.29,5466.96,6.0,True,7 days 04:30:24.744085,"this player play time is only 0.7% of average, skill is 21.430578674708936% of average, churn level is 1999.21"
+2693,UXCriUurBbWt4cIhHzKFf9W4cZL2,0.0,8357.43,0.0,True,6 days 03:33:16.744085,player does not play!
+2694,UY9UCQvIJ2YIL3Rl3QHwou4dnvq1,0.0,4010.0,0.0,True,7 days 11:11:35.744085,player does not play!
+2697,UZ52wshV52e8EIe7zdJkpfhAou33,31.9,3602.3599999999997,159.0,True,5 days 17:22:45.744085,"this player play time is only 6.4% of average, churn level is 132.8"
+2706,UdAQemzMkKQHvZam38z6tSRXx243,0.0,4164.969999999999,0.0,True,8 days 03:31:47.744085,player does not play!
+2709,UfXgQh7XZ1c992IX7hx31tANcdb2,6.73,4873.0,10.0,True,5 days 05:17:20.744085,"this player play time is only 1.0% of average, churn level is 1136.18"
+2710,UgPYN2jv1Ogn3zoOnrpwUluwbKA2,0.0,5285.89,0.0,True,5 days 11:09:04.745086,player does not play!
+2729,UyzqPWyCNVOLToPg8F5bnUzbpOD3,1.88,4061.5499999999997,24.0,True,7 days 22:09:37.745086,"this player play time is only 0.33% of average, churn level is 9848.36"
+2734,V2rIHr4Jb6ePpBNUSCsakhkXGoG2,0.0,7415.34,0.0,True,5 days 10:58:15.745086,player does not play!
+2769,VPcxDVO1udQqze0Xo2RwV2fKfyI2,0.0,6797.3099999999995,0.0,True,5 days 22:17:36.745086,player does not play!
+2802,VoHbEEDIjpUNgggKUHjaOScLGmS2,0.0,7118.04,0.0,True,6 days 06:11:22.746083,player does not play!
+2803,VpbaIQk0wXMj329kj3LOoWI6cmo1,96.53,8014.64,77.0,True,5 days 05:25:07.746083,"this player play time is only 8.71% of average, churn level is 128.83"
+2820,W6MtQEp56dUhR1nuNZqJk4VjM2n1,0.0,4891.4800000000005,0.0,True,4 days 13:41:09.746083,player does not play!
+2830,WGalGTmziMcopP1TxSub3pJYQha2,0.0,5143.7699999999995,0.0,True,6 days 05:25:24.746083,player does not play!
+2834,WKHtuKXmX4ThE3j2lIlT39Y2xGn2,9.24,5258.740000000001,15.0,True,4 days 23:45:19.746083,"this player play time is only 1.27% of average, churn level is 515.0"
+2847,WWZUNixBVcXUIXTHDhyfcw4RjQl1,0.0,4692.9400000000005,0.0,True,5 days 19:10:46.746083,player does not play!
+2868,WqSzpgNUZEUZLoW7trmGrNGJfWp1,0.0,5523.24,0.0,True,4 days 19:59:46.747079,player does not play!
+2874,Wv1qfTUc1eRx1kbP0UeZpX6OSyS2,12.29,272.25,887.0,True,6 days 06:31:58.747079,"this player play time is only 32.63% of average, skill is 49.102148465929716% of average, win 36.73% of average, churn level is 547.05"
+2876,X2HKamNpf7Ppc4G4pNqIHroiHZ23,0.0,4651.09,0.0,True,8 days 01:52:44.747079,player does not play!
+2877,X2wfggP7QwYNEiyNSXhr1fjW4F92,0.0,7767.08,0.0,True,6 days 01:24:08.747079,player does not play!
+2878,X3UifksEndgRTKWsbyoVMtQO1Ae2,0.0,4699.38,0.0,True,5 days 06:27:29.747079,player does not play!
+2882,X5mV8tJDibSQnqBB6m51v2LGe6v2,19.22,9383.09,23.0,True,4 days 16:05:21.747079,"this player play time is only 1.48% of average, churn level is 1217.84"
+2900,XG1PRfAYKSUkvDtmff07lQa4eRo2,4.07,5871.65,18.0,True,4 days 19:48:08.747079,"this player play time is only 0.5% of average, churn level is 1595.34"
+2911,XODOOPgjjfcykox7JG56W32v1su2,0.0,4763.0599999999995,0.0,True,7 days 20:41:10.747079,player does not play!
+2917,XUIigV9EWUbjsBlrKUz9NWwvstS2,0.0,8882.88,0.0,True,4 days 21:15:24.748042,player does not play!
+2918,XUYJSNlqeLTOlXfs6xls2MunCK42,27.97,4157.91,849.0,True,5 days 01:23:52.748042,"this player play time is only 4.86% of average, churn level is 427.88"
+2921,XWk2a5JfufYaD0fPZyn9Q4ajgzA3,0.0,4552.9400000000005,0.0,True,7 days 04:46:52.748042,player does not play!
+2922,XWogKg4XqqYc6WXGK2YqNfHVogH3,0.0,5141.150000000001,0.0,True,7 days 06:10:07.748042,player does not play!
+2942,XjSblDZJLpWfMqI8Q2bUuMFyQLF3,26.72,4746.64,47.0,True,4 days 22:23:50.748042,"this player play time is only 4.07% of average, churn level is 625.32"
+2945,XksFFrldi3RFDwzZwORfM89rNjk1,0.0,8137.87,0.0,True,7 days 03:50:02.748042,player does not play!
+2953,Xqho4u5Gbkctd2UElxb7aH7Az4J2,8.72,4854.13,91.0,True,5 days 15:46:19.748042,"this player play time is only 1.3% of average, churn level is 1172.9"
+2979,Y7u28E5Y7zVUN24kIxQGfIpFn9w1,0.0,4646.400000000001,0.0,True,7 days 22:00:05.748042,player does not play!
+2987,YBnuTUfTDrhLx424hY0JKRQp4YF3,0.0,5210.13,0.0,True,5 days 12:20:34.748042,player does not play!
+3000,YOquO0vVO5UnUe7MMFJDDXjNGud2,0.0,10025.880000000001,0.0,True,4 days 19:37:54.749038,player does not play!
+3018,YarkqYSkNoMr1gSGH6C6zuxuaZl1,0.0,8346.83,0.0,True,7 days 02:34:12.749038,player does not play!
+3027,YfnCpPfQdbgwYUX2Wiuvd0usrbg1,31.59,5646.66,1331.0,True,5 days 21:22:19.749038,"this player play time is only 4.04% of average, churn level is 267.26"
+3038,YlEPiq7Tkjg7BPbxLktTVJM2juN2,0.0,8383.41,0.0,True,5 days 20:17:18.749038,player does not play!
+3042,Yq33rdIwhEY3zCT4On5XGGT2t632,0.0,5233.92,0.0,True,6 days 05:07:41.749038,player does not play!
+3046,YqgS95QeH3ct5Pj7aofKHosFbqR2,1.58,6373.71,20.0,True,5 days 02:25:30.749038,"this player play time is only 0.18% of average, churn level is 1698.39"
+3063,Z6nLsuHulwVKLkgKDbmvW5pAw3u1,0.62,9374.58,2.0,True,5 days 07:10:50.749038,"this player play time is only 0.05% of average, skill is 22.25246793733472% of average, churn level is 99052.33"
+3065,Z7KoQX3M5VNgUp0X6r9TMUNXUFk1,0.0,7860.61,0.0,True,5 days 10:01:37.750035,player does not play!
+3067,Z9ce5R3Wq0QJKHBpa49bn1Rup0C2,1.35,8290.6,5.0,True,5 days 01:47:05.750035,"this player play time is only 0.12% of average, skill is 26.113675327990798% of average, churn level is 18192.33"
+3075,ZEobrSVFoAcGscBeYqxotnM6zMF3,0.0,10044.67,0.0,True,8 days 00:00:11.750035,player does not play!
+3087,ZPNHRn5xH6fKdunfVle5gI9md0D2,19.65,4788.4,18.0,True,5 days 01:21:34.750035,"this player play time is only 2.97% of average, churn level is 710.92"
+3088,ZQNmS3SGYYf3WCbxufzkelQbSxH3,0.48,8768.21,2.0,True,5 days 03:18:58.750035,"this player play time is only 0.04% of average, skill is 59.1697235401915% of average, churn level is 728808.0"
+3090,ZRKV5I9vv6VfJJiT3b8Bzj433el1,8.9,12.940000000000001,657.0,True,5 days 13:35:01.750035,this player churn level is 6.02
+3091,ZRXTKfzVIkgAdHL4wgk7EaIU0Ui2,1.25,6802.5,1.0,True,5 days 04:10:13.750035,"this player play time is only 0.13% of average, skill is 10.586651267944577% of average, churn level is 12939.46"
+3096,ZUNMd4IQPGQbFnKYSRsi2bOreEO2,0.0,5537.0199999999995,0.0,True,6 days 03:41:47.750035,player does not play!
+3101,ZYp7iRE8Fmcxnkp1bOiBPbBiVBh1,0.0,4866.7699999999995,0.0,True,8 days 04:55:10.750035,player does not play!
+3105,ZaVZyB0VstRPICTLc0aRgCAYG5b2,0.0,7922.089999999999,0.0,True,5 days 02:21:18.750035,player does not play!
+3113,ZgQqHnXIgcQbv5c8RRA5QDb7z1N2,4.95,4779.620000000001,13.0,True,6 days 01:25:11.750035,"this player play time is only 0.75% of average, churn level is 997.98"
+3114,ZghlC4TiAQa0sKxNJedgCgR0tpr1,0.0,5571.49,0.0,True,5 days 20:41:52.750035,player does not play!
+3116,Zh1W4wUX0VVgrplNJ1GKFPlfUXh1,0.0,4814.36,0.0,True,5 days 05:50:22.750035,player does not play!
+3131,Zr3ksSf1uEZEPNxm2nzs2U9Vb4x1,2.52,4130.54,3.0,True,8 days 04:44:00.750035,"this player play time is only 0.44% of average, skill is 23.525891706543504% of average, churn level is 9139.92"
+3151,aCnxDXRiZgYT3WcmBu8wsAtSk2C3,0.0,4530.44,0.0,True,7 days 06:20:59.751033,player does not play!
+3153,aDu0IXyFhcNCQjSM8JDEsesn5gi2,2.87,4349.23,15.0,True,7 days 00:13:36.751033,"this player play time is only 0.48% of average, churn level is 595.26"
+3162,aJeYKAIg9EMAAzuahH7Hy1HeLRH3,0.0,4435.4,0.0,True,5 days 18:39:58.751033,player does not play!
+3163,aKS5BRVcJ6Qh8xqCwrpE8wyk2nA3,19.78,4338.990000000001,24.0,True,6 days 00:30:33.751033,"this player play time is only 3.3% of average, churn level is 392.26"
+3167,aNDjXhtpFEYNHsR0Qgx3xi0vemg2,0.0,6268.16,0.0,True,6 days 00:50:55.751033,player does not play!
+3170,aOZxRzAmcegAx69YsfOknSac5Uv1,0.0,8161.31,0.0,True,8 days 11:00:21.751033,player does not play!
+3174,aRLZNuAYuFdWAWJCKYPmxQNpjy53,6.43,5770.58,56.0,True,6 days 04:56:56.751033,"this player play time is only 0.81% of average, churn level is 1433.33"
+3178,aS7WMufPoPXJcc85Df3hg4ZZJiR2,0.0,7074.469999999999,0.0,True,5 days 09:14:40.751033,player does not play!
+3201,ahwqmmyHWvPUcyp0Yw19xx4Rj3w2,24.54,4120.07,2011.0,True,1 days 14:11:03.751033,"this player play time is only 4.31% of average, churn level is 658.49"
+3203,ajmuYpxk4XWeJNgTgRGI2HWlZyK2,12.71,5738.97,1514.0,True,4 days 17:03:18.751033,"this player play time is only 1.6% of average, churn level is 1661.82"
+3220,atB3IJoMYJZptI9nHmsWpsiq8bZ2,0.0,7481.53,0.0,True,7 days 09:42:33.752030,player does not play!
+3239,bAXOVP4vJnabDk1eKBOGUhXCGiz2,0.0,4422.47,0.0,True,6 days 04:51:44.752030,player does not play!
+3240,bAtjMfL8HibD9kextsLgeYnd1oW2,0.0,9912.029999999999,0.0,True,6 days 07:13:46.752030,player does not play!
+3249,bKzO0xO08Cb5gPjsTmhVH7m0SxI2,0.0,9032.880000000001,0.0,True,7 days 05:04:52.752030,player does not play!
+3250,bL75xW1SlcSqRrnQ3nEQi45ND8p2,0.0,4195.509999999999,0.0,True,8 days 01:40:07.752030,player does not play!
+3257,bO5j0PXs7aT9XaCwsIrOC7mCTmk1,0.0,8401.58,0.0,True,6 days 03:46:47.752030,player does not play!
+3264,bT3Uj6F7L3ZrEoeO2uQ1A1Zdcij2,30.37,5419.33,31.0,True,5 days 03:53:27.752030,"this player play time is only 4.05% of average, churn level is 557.03"
+3270,bYQiSa1IGsfYxucLd8HuQwJApCa2,3.27,9794.01,22.0,True,5 days 09:01:47.752030,"this player play time is only 0.24% of average, churn level is 5537.02"
+3274,baSj9xcrxfbgshqcekvihkyiX6u2,0.0,4427.42,0.0,True,6 days 14:18:36.752030,player does not play!
+3286,bieFplrfGZfvLaY62mDvExwC4jj1,9.09,7687.580000000001,42.0,True,4 days 15:48:37.753027,"this player play time is only 0.85% of average, churn level is 378.54"
+3292,bnW9BJdOxXa8KV6FfFzSKUObssm2,0.0,5702.89,0.0,True,6 days 10:31:08.753027,player does not play!
+3293,bnhL3U1Sx8WwG8G5JbrnRMHbQ3a2,19.02,5813.91,24.0,True,4 days 17:52:35.753027,"this player play time is only 2.37% of average, churn level is 678.48"
+3298,bqibFDHfKTNEnTwD7LZVVVI177g2,0.0,4809.599999999999,0.0,True,7 days 21:56:56.753027,player does not play!
+3305,bvt1pR7s8RgjRbtLgO0YdO87Vxv1,0.37,5980.65,1.0,True,5 days 09:40:55.753027,"this player play time is only 0.04% of average, skill is 16.400219720893315% of average, churn level is 34830.58"
+3316,c1UILh4VkGWkCJrfFnLuvT7XHfe2,0.0,6101.7,0.0,True,6 days 01:36:17.753027,player does not play!
+3319,c54eYiqNIUWvCwfpcDHmeWP7zhK2,0.0,4334.64,0.0,True,5 days 22:10:30.753027,player does not play!
+3328,cCopswQtgOYorgcjYWNsPqPO15i2,0.0,5969.2,0.0,True,6 days 01:17:11.753027,player does not play!
+3337,cHCiLWJMBBeITEHHHXH1rsxAn6X2,59.15,4430.36,37.0,True,4 days 17:29:12.753027,"this player play time is only 9.65% of average, churn level is 249.08"
+3347,cTHvEAY6bpSajGqqSjPaqmqxkgw1,0.0,7248.2699999999995,0.0,True,6 days 19:42:36.753027,player does not play!
+3349,cTd20BBujlZzyzhEkmFFbv6UOrK2,0.0,7713.110000000001,0.0,True,5 days 23:40:19.753027,player does not play!
+3354,cWUdPRrZM7eirbFsbmTu3pAj1Y42,4.68,7285.75,6.0,True,6 days 02:21:21.753027,"this player play time is only 0.46% of average, skill is 18.192704427416263% of average, churn level is 3562.63"
+3365,cfBrTHUJb0g55XjQVymKuUhFsw12,0.0,8149.45,0.0,True,5 days 06:13:22.754025,player does not play!
+3366,cfNqnhHsfDT7LiPqs3RWS6yqPID3,135.62,995.16,73.0,True,4 days 15:41:45.754025,this player churn level is 3.85
+3380,cpsVt50L67cMiPqJy2gi0m5ShGv2,0.0,6466.84,0.0,True,6 days 07:31:41.754025,player does not play!
+3387,cvib5mPuQHN3aPmLUvkOhGDJ9lS2,12.05,7411.57,30.0,True,4 days 22:27:12.754025,"this player play time is only 1.18% of average, churn level is 2570.12"
+3388,cwTNdthcyvOm9c63fDFRA5rRy9B3,0.0,5588.46,0.0,True,5 days 06:04:46.754025,player does not play!
+3398,d14sfqezmRM72Ocx6Tohkx4HWyk1,26.63,4124.33,1376.0,True,6 days 08:27:34.754025,"this player play time is only 4.67% of average, churn level is 355.5"
+3409,d76vhIooSJVazXU3leXnM4tBGc63,30.86,984.31,154.0,True,5 days 18:13:46.754025,"this player play time is only 22.67% of average, churn level is 2.23"
+3440,dQhcPeWeLxTQdtp7lAQvxDx5avo1,0.0,7477.6,0.0,True,8 days 09:49:05.755022,player does not play!
+3450,dVMy2kzDNicTV55eytHubBpBAtx1,1.42,4122.88,6.0,True,6 days 14:46:48.755022,"this player play time is only 0.25% of average, skill is 25.461902352470883% of average, churn level is 726.83"
+3452,dXgfAikdkKet9c4CZl2Gbtd05Rg1,6.18,669.08,19062.0,True,4 days 16:51:21.755022,"this player play time is only 6.68% of average, churn level is 64.02"
+3469,dmYGHBeilzZudusOTJ5gxdy83Vi2,2.12,2.44,2309.0,True,8 days 08:39:28.755022,"this player skill is 45.021445646704166% of average, churn level is 12.7"
+3481,duoHNcSvTbZutTq7R3QKdBdu6Iz1,0.0,4514.9,0.0,True,6 days 00:00:00.755022,player does not play!
+3482,dvOXbpaanphrDA4WiH3BxYbNpMT2,0.0,5804.04,0.0,True,7 days 10:09:27.755022,player does not play!
+3491,e0FMdOQZEPVJX1iaa9n61ysnJTu1,0.0,5847.46,0.0,True,7 days 08:34:21.755022,player does not play!
+3492,e1tEG1NZpRS3ToibW82ZKQFT8Iy1,0.0,6126.650000000001,0.0,True,5 days 01:41:08.755022,player does not play!
+3506,eBSgUumJ1Gd7BB266FiI1HepOu52,24.91,4318.339999999999,36.0,True,5 days 20:00:03.755022,"this player play time is only 4.17% of average, churn level is 405.0"
+3511,eF6bsu8UsOV7DiyAJ2VH5y1cifw1,0.0,10203.07,0.0,True,8 days 07:32:07.756019,player does not play!
+3518,eGp251a7giWHYwl6H0WRDwm8dFS2,0.0,5637.25,0.0,True,6 days 23:16:36.756019,player does not play!
+3526,eMXvpLn1eoTrqzehcLvX1yZgUro1,20.14,4881.6,82.0,True,6 days 20:35:48.756019,"this player play time is only 2.98% of average, churn level is 1030.55"
+3530,eQN9VGNcAxV0KggEzvuDZkeKucl2,4.35,5366.8099999999995,8714.0,True,5 days 08:37:23.756019,"this player play time is only 0.59% of average, churn level is 2006.47"
+3535,eUZjeLQBcsUsKsxrsLqpeGPcP882,11.34,7002.410000000001,32.0,True,6 days 04:52:14.756019,"this player play time is only 1.17% of average, churn level is 2402.17"
+3575,ewZVMbXlTmYFkabdiAWgF17Eoch2,0.0,9806.4,0.0,True,5 days 02:06:36.756019,player does not play!
+3578,eyd0PtiV8mYFXnEODlnsHBtlPdC2,1.87,4280.849999999999,33.0,True,7 days 22:32:58.756019,"this player play time is only 0.32% of average, churn level is 1528.47"
+3587,f1eS6tezD4dNh3s84sjpnhxJ4U52,0.0,6395.96,0.0,True,8 days 12:37:05.757017,player does not play!
+3588,f1ehlFRbBZMfMS2JO8dMRX0tbbU2,0.0,5141.88,0.0,True,5 days 10:51:42.757017,player does not play!
+3592,f3f22Q6uURUgYNQlVjJKnt4wUaq2,5.5,6377.63,15.0,True,8 days 00:02:58.757017,"this player play time is only 0.62% of average, churn level is 5018.03"
+3603,fC8nToUwYkP8CfGlrD2gQy9Z5iC3,0.0,6667.47,0.0,True,4 days 20:28:46.757017,player does not play!
+3606,fDi7IdHVz8cvQGNLdAijtMfHjHS2,2.46,4496.200000000001,4.0,True,5 days 00:04:45.757017,"this player play time is only 0.4% of average, skill is 25.528643905164117% of average, churn level is 8952.87"
+3612,fH7vBCbQ0HYOBwDdl0jYeDVu61r1,0.0,3136.67,0.0,True,4 days 20:08:48.757017,player does not play!
+3613,fHPk2ypN3XXNBCLcLbzqyGuQzS52,0.0,4385.2699999999995,0.0,True,5 days 00:54:01.757017,player does not play!
+3621,fNO5kesWrUaBO8AXTioJHArrA8Y2,0.0,6123.73,0.0,True,4 days 21:01:53.757017,player does not play!
+3622,fOKkB6jmTafopS8EKhdwqXROWdy1,18.01,1553.6,1487.0,True,7 days 17:13:59.757017,"this player play time is only 8.38% of average, churn level is 349.66"
+3635,fXqM8XKTqtRj6MFQXveUjW0b1fn2,0.0,6425.2300000000005,0.0,True,5 days 13:45:24.757017,player does not play!
+3639,faKRwZ7M7IYxsCfHl3P13ckY4ZR2,0.0,5905.71,0.0,True,7 days 01:02:13.757017,player does not play!
+3642,fbhOElilDJgGIs49cCVCKrTaeNj2,0.0,8475.91,0.0,True,5 days 05:30:16.757017,player does not play!
+3651,flIlISt0aeUwwRhV5oOQJYw7HR32,4.85,6883.0,33.0,True,8 days 06:01:51.757017,"this player play time is only 0.51% of average, churn level is 1534.21"
+3653,fmQU0l0r2tbc54f5O8a2VRXmjYJ3,11.53,5208.6900000000005,25.0,True,5 days 05:30:06.757017,"this player play time is only 1.6% of average, churn level is 318.13"
+3659,foaiE8xGljhNoro7md4Lh7zwQe93,27.48,179.14,870.0,True,4 days 22:27:13.757017,this player churn level is 29.24
+3660,fp4UXygtVbXfHlE7FNvN5OLWErn2,1.4,5478.88,6.0,True,5 days 05:47:15.757017,"this player play time is only 0.18% of average, skill is 32.90654018192278% of average, churn level is 16769.5"
+3674,fvmO7KKnTuSBedBRqkT92x17S1m1,0.0,5520.259999999999,0.0,True,7 days 03:54:06.758014,player does not play!
+3686,g7fbmK4BRBQVSXJMCRsDuFJiW4r2,0.0,4408.53,0.0,True,5 days 00:42:31.758014,player does not play!
+3704,gMJfbegADOUe9Q5c9ufn2VksQit2,8.43,6884.410000000001,32.0,True,6 days 01:08:11.758014,"this player play time is only 0.89% of average, churn level is 157.73"
+3729,gcMyMw7daDUAZRTTR69uqAJmjIR2,0.0,7369.450000000001,0.0,True,7 days 15:50:49.759053,player does not play!
+3732,gewFH7ppLrTzxVIm1g4Wl5mwFnY2,0.0,9607.14,0.0,True,6 days 09:59:26.759053,player does not play!
+3733,gf86srtJhggKse9gIW58flbaKBi1,0.0,8401.03,0.0,True,6 days 00:16:13.759053,player does not play!
+3754,guRcSTGOA9XqjspHtrf2zPgLO5C3,0.0,9934.54,0.0,True,5 days 10:39:11.759053,player does not play!
+3761,h13bOmzF3paUxCdAJt0wuROkHIo2,0.0,6972.62,0.0,True,7 days 14:11:29.759053,player does not play!
+3764,h34yxWW9TySNJZhM9fnke2hu9Rh1,0.0,7471.089999999999,0.0,True,6 days 20:28:57.759053,player does not play!
+3777,h8UgMwKApKgQgRpCnJuGu99eu572,0.0,4374.01,0.0,True,5 days 13:53:09.759053,player does not play!
+3782,hCn3d2aCuwZFXkXzgdMjLecvkpi1,0.0,6364.5599999999995,0.0,True,4 days 18:14:19.759053,player does not play!
+3798,hJe1CL0dUUhX6F8NhSZ5pt1CrMp2,0.0,5539.929999999999,0.0,True,8 days 04:36:42.760051,player does not play!
+3810,hTsMHF86PXbllNCYcNaWV4YNKA92,6.16,4969.52,36.0,True,5 days 11:08:35.760051,"this player play time is only 0.9% of average, churn level is 1949.19"
+3833,hiADtwreyKenylNeOzG9YggpFDh2,0.0,5785.96,0.0,True,4 days 18:57:32.760051,player does not play!
+3836,hlkXJLcuEHS4FrO9wOQA5qA6Qiw1,0.0,8433.769999999999,0.0,True,7 days 00:29:24.760051,player does not play!
+3839,hoioHRgN2zcQAj3mnUAcayoHMTt1,0.85,4212.03,6.0,True,5 days 07:13:31.760051,"this player play time is only 0.15% of average, skill is 34.78550474000675% of average, churn level is 26280.02"
+3849,htaaF1S0GGNn1P1bQmS78KKhBw92,0.0,4536.49,0.0,True,5 days 13:38:57.760051,player does not play!
+3852,hww841gJJmUSBpfrJ07YSkK5bjw1,0.0,8780.24,0.0,True,5 days 23:58:26.760051,player does not play!
+3858,hyuKliFZTPc0tWxhBxDouuOi9Sg1,5.47,8007.07,6.0,True,4 days 17:56:48.760051,"this player play time is only 0.49% of average, skill is 34.54876475165544% of average, churn level is 5944.16"
+3886,iLMQFkq1ryUwKTcs9FOlaYF1C352,0.0,3998.7599999999998,0.0,True,5 days 06:56:58.761047,player does not play!
+3887,iLvO0CJAQYPy1jLhYxA9BF7VLs92,0.0,7165.87,0.0,True,5 days 05:55:57.761047,player does not play!
+3896,iQPupqYKZZTzQkdVPJTQHi6QLnw2,1.55,6276.34,20.0,True,6 days 19:32:53.761047,"this player play time is only 0.18% of average, churn level is 5149.62"
+3897,iQhEu7qmGPOHsngRaWzKpuS245A3,0.0,4029.7,0.0,True,4 days 22:35:14.761047,player does not play!
+3901,iTegLJjAIUQUN5uWJ3YDtvy2GXA3,9.6,5537.070000000001,18.0,True,5 days 11:05:31.761047,"this player play time is only 1.25% of average, churn level is 1791.78"
+3935,iuVokjnHywMzmKW9eU9r8oB2li03,7.65,9025.34,17.0,True,8 days 03:06:43.762050,"this player play time is only 0.61% of average, churn level is 5211.02"
+3952,j8NMd6LFL2hw6sxTaTDNsn5xZ7N2,0.0,4303.35,0.0,True,5 days 15:47:16.762050,player does not play!
+3953,j8a2YduTGWcfB74wsQVCcWXWbaJ2,3.73,7275.8099999999995,12.0,True,6 days 18:33:16.762050,"this player play time is only 0.37% of average, skill is 234.43083504776138% of average, churn level is 14876.21"
+3955,j9e80YaOpYNbHlvxcmJN7Kiq7l42,0.53,7294.89,6.0,True,5 days 21:41:02.762050,"this player play time is only 0.05% of average, skill is 28.09569087562785% of average, churn level is 23092.47"
+3959,jBvft5mheneMxaYJnrSVCcPnI642,0.0,7782.85,0.0,True,5 days 03:50:26.762050,player does not play!
+3960,jE6eJn3SFoVGhEtSTwzvzstuE8w1,0.0,4285.360000000001,0.0,True,6 days 20:37:09.762050,player does not play!
+3961,jE72FSXUYaNcDR1ZOk8rB3TLaaZ2,76.12,438.18999999999994,71.0,True,5 days 16:50:13.762050,this player churn level is 23.14
+3967,jLCDg60il6NbJhYac3NdsJXypDP2,0.0,4362.98,0.0,True,6 days 00:18:21.762050,player does not play!
+3979,jQUCoICI8QU5qjprlNOjQZHgajH3,0.0,5690.639999999999,0.0,True,7 days 03:45:17.762050,player does not play!
+3980,jQlR7AflEgTjTQMbWqGcHvX3XT82,0.0,7458.78,0.0,True,5 days 22:57:50.762050,player does not play!
+3985,jU8F4g11U9VhdTdn5mqn7Vasghy1,0.0,9640.5,0.0,True,8 days 07:29:21.762050,player does not play!
+3990,jV9TKS9oMEaPJ9Lc8jbs5GmE0ZB2,1.42,4520.4800000000005,48.0,True,5 days 16:36:38.762050,"this player play time is only 0.23% of average, churn level is 3516.99"
+3995,jYMIXlhGsmVsrUSw6AztrDgxpjx1,16.79,6941.09,33.0,True,4 days 17:23:50.762050,"this player play time is only 1.75% of average, churn level is 4.95"
+4006,jiFeZVoL2Fcn2GrlszxCJ72XkAs2,0.0,5559.75,0.0,True,5 days 01:27:42.762050,player does not play!
+4009,jk5p8CZTGBhBf1bu3yVQSH0de6g1,0.0,7558.96,0.0,True,8 days 07:55:48.763043,player does not play!
+4015,jqCcqbD2wyPzfabZtRVeXPa6jwt1,0.0,5793.4400000000005,0.0,True,7 days 08:09:46.763043,player does not play!
+4049,kJvUH36YXCR6rhXIkv3MCivc8vq2,0.0,4944.679999999999,0.0,True,7 days 20:32:10.763043,player does not play!
+4067,kRoAEuF7F5Y1nnhgacj91xXOvU63,0.0,4249.21,0.0,True,7 days 10:08:37.763043,player does not play!
+4069,kSFo5Dd5oFUKUhKc9eEjquowz1D3,0.25,4242.98,1.0,True,5 days 07:09:09.763043,"this player play time is only 0.04% of average, skill is 35.67241188111759% of average, churn level is 371600.36"
+4072,kV6skEIphEXBVYEj9MIA3b97lxh1,2.82,4738.98,11.0,True,6 days 00:25:29.763043,"this player play time is only 0.43% of average, churn level is 4858.92"
+4091,keQz6KI7E6SauGvQr4Eh57ewOiE2,0.0,9668.33,0.0,True,8 days 07:38:21.764040,player does not play!
+4097,khMEgOUN3iYm04KzHpbTJWxq2bD3,0.0,7162.79,0.0,True,5 days 18:03:50.764040,player does not play!
+4111,krhjd6hYe7UBSSo1p11tMdPm8O43,0.0,8175.48,0.0,True,7 days 02:16:59.764040,player does not play!
+4121,ky7gpEmFGegLj0ybdyifL0phOHg1,0.0,7457.61,0.0,True,7 days 18:25:29.764040,player does not play!
+4123,kyLALVher3bheVzY4zwwU7byIeC3,7.68,8636.83,11.0,True,6 days 22:38:21.764040,"this player play time is only 0.64% of average, skill is 178.96052130184958% of average, churn level is 2941.83"
+4127,l09vdIC5U3Q3QDAgYkjxg4vGQi22,0.0,4641.320000000001,0.0,True,5 days 07:55:27.764040,player does not play!
+4133,l2zXhq6wnUNjPSFFMrl2t1QpXvQ2,0.0,7233.51,0.0,True,5 days 22:29:44.764040,player does not play!
+4141,l8nVeiD7ALfUq3Z2INFQEpAsHcB3,0.0,9024.85,0.0,True,6 days 00:54:12.764040,player does not play!
+4154,lIsuS5UfuERmK18c3VtiT33ROq23,2.07,8143.030000000001,15263.0,True,4 days 16:34:58.764040,"this player play time is only 0.18% of average, skill is 46.84119358962689% of average, churn level is 40325.68"
+4164,lRFXo7LHHsaYZHNHAcnnN59DLgq2,1.15,7016.16,5.0,True,5 days 20:12:14.765039,"this player play time is only 0.12% of average, skill is 37.26200139234532% of average, churn level is 61079.21"
+4186,ljvrRygeFROWdNbscTOCPunhARj1,0.0,5175.56,0.0,True,6 days 09:53:49.765039,player does not play!
+4189,lkmI4NZ0cIWs3NCOLU78510NEu92,0.0,5136.35,0.0,True,8 days 05:36:13.765039,player does not play!
+4196,ls5lXXLAZYaXBb4I6lef4b3B4iw1,0.0,5581.71,0.0,True,5 days 22:53:41.765039,player does not play!
+4217,m5ueN5C9xmcpouuT5kLZrR235Wi2,0.0,4669.25,0.0,True,4 days 22:39:48.765039,player does not play!
+4218,m7JhDfrwG3SSIQoVvpbXMfPW5rH2,6.22,4347.639999999999,17.0,True,4 days 20:53:10.765039,"this player play time is only 1.03% of average, churn level is 584.65"
+4249,mPfkLo8DiKQRzJYe1CvlCoKVskD2,5.51,5319.24,12.0,True,5 days 09:03:59.766035,"this player play time is only 0.75% of average, churn level is 339.71"
+4254,mSOnXCAdd3OmCp9vZ3rKO3ZAgWn2,69.64,5527.35,14.0,True,5 days 00:55:52.766035,"this player play time is only 9.11% of average, churn level is 49.95"
+4262,mWxM4o5INeXBuXXxVV0ZPK6Uz582,0.0,4457.23,0.0,True,7 days 23:35:59.766035,player does not play!
+4264,mZrpyVUUxcSPMiYcpopIN2JmF392,4.17,8859.630000000001,515.0,True,5 days 01:48:32.766035,"this player play time is only 0.34% of average, win 0.0% of average, churn level is 1135568.77"
+4273,mj6PQ9N9q5SURvOmD5QEU2pbFnG3,79.8,1962541.69,70.0,True,4 days 16:17:08.766035,"this player play time is only 0.03% of average, churn level is 7761.06"
+4281,mnjDqGPqvpOWxjXHaypPRE2dDiq2,0.0,5188.42,0.0,True,7 days 00:53:07.766035,player does not play!
+4306,n3s31zWLFKO509LrosKZBUMsPwT2,0.0,4125.429999999999,0.0,True,7 days 00:38:50.767032,player does not play!
+4319,nGaoauWuI8O0ndSoUeVJQnTS2R42,2.45,5862.389999999999,43.0,True,6 days 08:30:56.767032,"this player play time is only 0.3% of average, win 0.0% of average, churn level is 292408.21"
+4344,nZeoPHDUYWWfIpELqEibrTGGikO2,7.3,5518.95,5.0,True,6 days 07:32:56.767032,"this player play time is only 0.96% of average, skill is 20.897217797779156% of average, churn level is 38.87"
+4357,ngLQr5TNzYRS2C0BspHYy5kV1t72,0.0,7086.39,0.0,True,5 days 05:46:10.767032,player does not play!
+4380,npzNREzxd1TEE79tu482515Yo9q2,0.82,1859.38,5466.0,True,4 days 20:27:37.768030,"this player play time is only 0.32% of average, churn level is 3270.74"
+4382,nr5hxnEfymV31D2getmuTrUwEA22,1.13,9234.130000000001,22.0,True,5 days 13:45:46.768030,"this player play time is only 0.09% of average, churn level is 18491.39"
+4383,nrmr6WR9PGfqQL1f3URyQZtVCZZ2,0.0,5570.88,0.0,True,5 days 01:45:16.768030,player does not play!
+4386,ntqwyyDDFdgT4ZIfg1fUlb5FFfE3,0.0,5034.4800000000005,0.0,True,4 days 22:44:51.768030,player does not play!
+4394,o0m1QP6BDHV1WCo8Vzz1t5OeGCt1,0.0,7322.76,0.0,True,6 days 23:28:44.768030,player does not play!
+4395,o15KVlz7WsOw36lVnGBs9J7bLyG3,0.0,7115.589999999999,0.0,True,6 days 08:35:56.768030,player does not play!
+4409,oAY2Wu5crJV6XiiOSxCKFySDJ913,0.0,8942.96,0.0,True,7 days 05:39:09.768030,player does not play!
+4423,oHVOmYm4YCQ9pnTIk7ZX3gLjRPb2,4.83,4745.660000000001,17.0,True,5 days 03:05:28.768030,"this player play time is only 0.74% of average, churn level is 4085.7"
+4433,oLNgbc5gFaVd7pYhIHrqU2nWapn2,0.98,6298.3,3.0,True,5 days 19:36:58.768030,"this player play time is only 0.11% of average, skill is 14.128031562900656% of average, churn level is 13263.52"
+4437,oNVNf4sPrBYMyC8zqofM8V9Ka3C2,0.0,4111.62,0.0,True,8 days 10:10:50.768030,player does not play!
+4445,oWZhwk5CtYZxFug7ir5cdCUwBCX2,2.3,9268.0,4.0,True,6 days 09:17:40.768030,"this player play time is only 0.18% of average, skill is 14.147123497445117% of average, churn level is 10516.8"
+4450,oZvV7kSD1gRm9Q9fXZNceBiF5Qr1,0.0,9872.16,0.0,True,6 days 01:00:28.768030,player does not play!
+4460,okzzHQkjcQduQjwJYYnqOUK7Y7A2,13.72,1074.77,777.0,True,7 days 09:17:17.769025,"this player play time is only 9.23% of average, churn level is 226.23"
+4483,oyygCeuSPUYkdwCCWBXzrbjFKv43,8.41,2.36,33522.0,True,4 days 14:01:27.769025,this player churn level is 1.35
+4484,ozXatqewLLg194d0iUA3zKFjoPI2,0.68,5995.03,3.0,True,5 days 00:17:28.769025,"this player play time is only 0.08% of average, skill is 26.754164274970428% of average, churn level is 72298.14"
+4486,ozdT6YjaEQSOzYNbjvcVIrjrBGM2,0.0,4546.03,0.0,True,6 days 21:38:41.769025,player does not play!
+4501,p6rE2Kah8oQgvoFpERKzWVsTDTq2,0.0,4804.48,0.0,True,7 days 20:07:22.769025,player does not play!
+4509,pAg6Ui59VVaAtVmQzdPk12JmZJh2,48.15,3992.74,72.0,True,4 days 14:18:21.769025,"this player play time is only 8.72% of average, churn level is 50.71"
+4516,pFNjeOLeASazczPEn51Avr0Dd5i2,3.7,8506.34,5.0,True,7 days 03:52:47.769025,"this player play time is only 0.31% of average, skill is 9.975081229610424% of average, churn level is 8973.97"
+4539,pXhOnGK4YCYU5UM9y0Uo3f9hiTz2,3.81,4048.34,34.0,True,7 days 02:26:26.770028,"this player play time is only 0.68% of average, churn level is 263.32"
+4543,pZ3Ay32E5MP6WDe1sTdFMeYZA6S2,0.0,7187.23,0.0,True,5 days 04:00:02.770028,player does not play!
+4546,pbwPnsoAlIa3uJDImgj6z2vZhgb2,0.0,6992.0199999999995,0.0,True,5 days 00:29:53.770028,player does not play!
+4563,plkthZiDkHRXeC6pA0mxpPgz4Ap1,0.0,7667.349999999999,0.0,True,5 days 06:04:05.770028,player does not play!
+4584,pvc60aVNYtgcRVImcen4rcSggq13,9.1,2020.77,7896.0,True,5 days 17:24:36.770028,"this player play time is only 3.26% of average, churn level is 173.05"
+4590,q0PAS78WH0QM1Dbgf5OApdrLZFf2,0.0,5416.92,0.0,True,7 days 09:18:07.770028,player does not play!
+4593,q2XkxdBnnzgA0kcEYugg56fMONH3,348.43,4143.01,60.0,True,5 days 10:33:53.770028,this player churn level is 4.94
+4602,q9rrGTRp78MhKgb9Qrcv9ngDugL2,0.0,4569.43,0.0,True,6 days 21:13:42.771021,player does not play!
+4617,qJolP2m0KbhKE0yyvdIOQwkI6Tm1,2.02,7192.01,24.0,True,6 days 06:24:47.771021,"this player play time is only 0.2% of average, skill is 58.64705375566257% of average, win 0.0% of average, churn level is 3437915.66"
+4618,qK2plkjLMhTxgQBaS7qwK4PbqXl2,13.33,4251.31,68.0,True,5 days 17:48:54.771021,"this player play time is only 2.27% of average, churn level is 423.32"
+4622,qLHS6f2HIJTVYxnMHVUNDZ4tzNo2,0.0,8962.070000000002,0.0,True,7 days 22:22:18.771021,player does not play!
+4623,qMIFxTgA2wcCHWgEKMwD0OvxnqA3,6.64,4849.1900000000005,4.0,True,5 days 08:31:21.771021,"this player play time is only 0.99% of average, skill is 13.478790776735122% of average, churn level is 246.75"
+4634,qTWFjrSttcRfCaDs6GYRm4hy1d72,0.0,4402.52,0.0,True,5 days 04:21:38.771021,player does not play!
+4648,qclNo0zHGUZoBofULJlV3D2sdOJ3,20.35,4141.219999999999,199.0,True,5 days 12:10:33.771021,"this player play time is only 3.55% of average, churn level is 519.89"
+4661,qkZms5yiU0fbunLR2zgPPDyi3O53,0.0,4035.22,0.0,True,7 days 05:48:40.771021,player does not play!
+4678,qrdPaNcYEfgB5X3K8RVVvvFL6op1,11.17,1904.03,75.0,True,7 days 11:29:36.772018,"this player play time is only 4.24% of average, churn level is 204.88"
+4682,qwFecpgPOrbOsc3ffITgeiLaTOn1,5.5,7478.7699999999995,14.0,True,6 days 23:13:48.772018,"this player play time is only 0.53% of average, churn level is 2780.03"
+4690,r2tIpDHilBR7j8TKC1kwnxZPx2y1,128.86,4632.44,79.0,True,5 days 09:48:51.772018,"this player play time is only 20.11% of average, churn level is 43.51"
+4702,rALVvDznjmcLbk9D4lS0LO7Kuaf2,0.0,7425.2300000000005,0.0,True,5 days 10:13:08.772018,player does not play!
+4716,rHTRTGrohaPOHNh3u8VrIitXSRr1,0.0,7074.56,0.0,True,4 days 19:52:55.772018,player does not play!
+4717,rIEnb0Q6vVb4dLehSavJYH5IfSU2,32.99,13.69,178.0,True,8 days 05:13:06.772018,this player churn level is 0.17
+4730,rP691tZdVKZIImQxKuxNZhxwA5H3,0.0,8524.79,0.0,True,8 days 05:28:37.772018,player does not play!
+4743,rXYvxW5EhvUP64uqjeVnItNh3ao1,0.0,6873.03,0.0,True,7 days 01:39:32.772018,player does not play!
+4745,rZitIaQmeFV8ZW03vNqe039rZUo2,1.33,6649.3,11.0,True,6 days 06:45:55.772018,"this player play time is only 0.14% of average, churn level is 251.68"
+4763,rmQeLi7ocMNiwK1jPmVMdJdXA9j2,0.92,7168.67,4.0,True,5 days 22:14:53.773017,"this player play time is only 0.09% of average, skill is 18.568099590396717% of average, churn level is 1024.22"
+4769,rs5hD8N3RYQIqKsOKGxjmYj21852,0.0,5892.89,0.0,True,8 days 01:31:19.773017,player does not play!
+4786,s5LSFE3rpTdIJpO3aEyeiKsz6Q52,0.0,9591.27,0.0,True,8 days 08:16:48.773017,player does not play!
+4789,s9bkhcc84SevvGDWibrRwFB6vgC3,3.82,5979.34,17.0,True,4 days 23:11:58.773017,"this player play time is only 0.46% of average, churn level is 1370.96"
+4811,sRiYxsAd2iWxXRZsJuQiJ5ojC8o2,0.0,6926.51,0.0,True,6 days 05:40:44.773017,player does not play!
+4813,sSaVv4YjjqWwBWTWB0wF2DwOCkA2,0.0,8519.1,0.0,True,5 days 08:06:32.773017,player does not play!
+4816,sUTdb3qWpEXn55QT6tG2xy0kN4e2,30.52,5850.639999999999,45.0,True,5 days 02:11:44.773017,"this player play time is only 3.77% of average, churn level is 52.08"
+4821,sWM0Q2jk5rRM6LO9IBBwxHTKdSx1,8.51,224.18,1032.0,True,7 days 02:43:40.774014,"this player play time is only 27.44% of average, churn level is 30.65"
+4829,scDQsc8KUcTgPi4eeOq0d5fssjC3,0.0,4672.929999999999,0.0,True,8 days 01:58:10.774014,player does not play!
+4832,seP8kYuzC4NQuQMFeQ16oLydMzk1,0.0,6941.46,0.0,True,6 days 00:08:55.774014,player does not play!
+4845,sloRFilViFPIXxCq1JOUd03nTtp2,0.0,6975.5199999999995,0.0,True,7 days 02:52:03.774014,player does not play!
+4858,svnewK0JRkQX9b950ZVkz0kJnoa2,0.0,4845.469999999999,0.0,True,6 days 20:13:51.774014,player does not play!
+4903,tQvT6HNjKSZ3QOf978r4JILz0bt2,5.37,4293.8,10.0,True,7 days 08:00:26.775011,"this player play time is only 0.9% of average, churn level is 2593.68"
+4915,taI6SYFBU0QNdAD9cBFibS8N26E2,2.55,5141.22,2.0,True,5 days 10:33:53.775011,"this player play time is only 0.36% of average, skill is 11.40594596207271% of average, churn level is 5135.9"
+4929,tk7EsIti0OgrB6kHwyMFb2ahhJA3,0.0,6926.48,0.0,True,6 days 02:11:51.775011,player does not play!
+4936,toaRChps1nXMQxKAUOnAbkgFKPk1,5.0,5622.68,24.0,True,5 days 16:03:29.775967,"this player play time is only 0.64% of average, churn level is 3341.17"
+4938,tqYlEp7ejFdc31A4KCcKQd4kg6B2,1.38,4337.429999999999,2.0,True,6 days 22:20:06.775967,"this player play time is only 0.23% of average, skill is 37.750482174761444% of average, churn level is 15539.42"
+4940,trfGksqiBAY8RMVjcEycYZrz4rz2,39.57,1217.2800000000002,248.0,True,6 days 06:06:49.775967,"this player play time is only 23.5% of average, churn level is 125.13"
+4942,tsasCaHS0Lel1zMsOxYCb0wdfkq1,0.0,7649.47,0.0,True,7 days 04:56:21.775967,player does not play!
+4946,tvicKBmciEa9kOV8meEzmMGsdUC3,0.0,7222.79,0.0,True,4 days 13:37:36.775967,player does not play!
+4953,u27IzJKZH0Y5Mc9moK8MLdxu35y2,0.0,6693.3099999999995,0.0,True,7 days 07:07:51.775967,player does not play!
+4967,uBOyXHSwJebvTzLFaqiwkGsXwHJ3,4.03,5395.87,19.0,True,8 days 10:07:39.775967,"this player play time is only 0.54% of average, churn level is 2162.54"
+4980,uMYLet91uNZ9abbffe70a5ddGUf2,0.0,7894.79,0.0,True,4 days 18:05:31.775967,player does not play!
+5012,uiePeNvWK8OjIaTsU7yPSGZKaGS2,0.0,4245.96,0.0,True,8 days 12:03:29.776963,player does not play!
+5013,uinfEudvpFamR652VPh9ytNsatv2,0.0,7609.799999999999,0.0,True,7 days 01:00:55.776963,player does not play!
+5029,ut2zapI05NeK3Ov0GzvfosQklw63,0.0,4817.4800000000005,0.0,True,8 days 03:15:20.776963,player does not play!
+5032,uuGGcxS2wgMbhFQ79krxnopjGLs1,0.0,9660.470000000001,0.0,True,6 days 13:40:24.776963,player does not play!
+5039,ux200fDGYbe2OVIkpKpdMLbNfAA3,0.0,8222.769999999999,0.0,True,8 days 09:02:42.776963,player does not play!
+5053,v79cCactcXSZIHjXdr9dftCO0qZ2,0.0,7211.179999999999,0.0,True,6 days 00:13:12.776963,player does not play!
+5069,vEeyDwxtbLT7dT6Sv4yq7OcAkR63,14.93,1333.72,739.0,True,7 days 17:14:08.776963,"this player play time is only 8.09% of average, churn level is 250.91"
+5085,vLWpgJlsA5gLRKlkHOuKvOdtiAV2,0.0,4117.95,0.0,True,6 days 10:45:29.777961,player does not play!
+5095,vP0BpTvezBXRhksXlaf2JftSAw92,0.0,4952.0599999999995,0.0,True,7 days 13:05:51.777961,player does not play!
+5099,vRKSCHhu3yfnuV2ykihRUG9pfOs2,0.0,7131.89,0.0,True,4 days 17:40:13.777961,player does not play!
+5100,vSSMmtEUc0Xl9RXn9AdnUMEACmR2,0.0,7370.72,0.0,True,4 days 23:17:36.777961,player does not play!
+5107,vVjS05Bc4cP9rWYJ9CDUe9SubxC2,4.09,5742.08,52.0,True,5 days 01:11:48.777961,"this player play time is only 0.51% of average, churn level is 1011.48"
+5108,vVxXcVfaCzOkhKbaqDL6FCPKAxV2,0.0,4673.67,0.0,True,4 days 19:04:34.777961,player does not play!
+5125,vjxEJvJ5m7WT7OOZEhW2bOrVHC23,4.95,7.24,843.0,True,5 days 09:09:53.777961,this player churn level is 3.87
+5139,vv31JmYbzpPcestQe2Eb8EPJ71w1,3.23,5.04,1543.0,True,7 days 23:52:31.778958,this player churn level is 0.43
+5152,w6x9ObYYsMYvfgqJ8GeExSehKK12,5.9,5715.4400000000005,24.0,True,5 days 11:49:22.778958,"this player play time is only 0.75% of average, skill is 53.74252294701958% of average, churn level is 7531.48"
+5164,wCSYO4wf1nYuDErCdMFNgcDPkrS2,1.33,4885.650000000001,2.0,True,7 days 20:54:54.778958,"this player play time is only 0.2% of average, skill is 8.313458384768664% of average, churn level is 6731.39"
+5166,wCiKP6cdNFgqGxHZaCYEUQDLs9r2,0.0,9279.47,0.0,True,4 days 15:00:00.778958,player does not play!
+5184,wSXY3MrQ8YMzh4NchEmUWmy5SO43,0.0,9993.449999999999,0.0,True,6 days 07:00:51.778958,player does not play!
+5204,wjTFSlrPUVRkonxu4HUbmz5rRYe2,15.77,8690.51,14.0,True,5 days 09:21:12.779955,"this player play time is only 1.31% of average, churn level is 1265.99"
+5212,woDa9FydUPZtM9ZGLd70rGvyOl93,2.9,7932.67,19.0,True,4 days 13:45:05.779955,"this player play time is only 0.26% of average, churn level is 1968.59"
+5245,xA36p0dxLUPZ7ewhrxYGmPU7tf93,3.18,8967.630000000001,38.0,True,4 days 18:06:17.779955,"this player play time is only 0.26% of average, churn level is 10153.52"
+5251,xCHXOpOmKtRpfsbKHDPyxPyORcl1,0.0,5607.05,0.0,True,7 days 10:56:00.779955,player does not play!
+5252,xCYAf7Kh3vYbG4uLkvxuP8zPQqB3,0.0,5432.89,0.0,True,6 days 10:01:47.779955,player does not play!
+5256,xELVpdzS9SZSffHZkDwZ1cWh0yG2,19.59,6891.66,864.0,True,5 days 17:10:10.779955,"this player play time is only 2.05% of average, churn level is 1526.21"
+5259,xG2ue3jg5UbCZtXAzOFbhbgJ5H03,1.6,7921.26,19.0,True,4 days 19:03:43.779955,"this player play time is only 0.15% of average, churn level is 863.06"
+5260,xGy2XMAicFORnajwLApBaS0sFar2,5.17,10115.04,37.0,True,4 days 13:37:52.779955,"this player play time is only 0.37% of average, churn level is 8312.12"
+5264,xJzM7nvJFeTmv51YS3XzSCPMAXk1,0.83,7798.78,8.0,True,4 days 23:02:26.779955,"this player play time is only 0.08% of average, skill is 39.54576041975887% of average, churn level is 6945.16"
+5272,xMoY0Bl24ehPIVol90oAWzrlV8l2,0.0,6595.21,0.0,True,7 days 10:03:56.779955,player does not play!
+5285,xUP2lrjVoXUxVrXa34vtRIIC8ha2,0.0,9950.24,0.0,True,7 days 21:33:06.780953,player does not play!
+5287,xW0Olw4wfJRZPYE5yov2w55LAy52,0.0,6089.25,0.0,True,6 days 13:57:20.780953,player does not play!
+5288,xX6uzOUcXsVXVyOhZEwSTs9DKmF3,4.34,6196.33,42.0,True,4 days 15:53:59.780953,"this player play time is only 0.51% of average, churn level is 4853.54"
+5310,xmO7rX1CILZtDRUQd6Z2seAvMT23,0.0,4357.299999999999,0.0,True,5 days 23:27:31.780953,player does not play!
+5331,y5AuT4OLBtOt6sinXHTfuUP91wf2,0.0,4600.24,0.0,True,7 days 00:14:21.780953,player does not play!
+5345,yDOBJFkjngebQitWXnEYoMHbbdg1,2.22,6106.24,17.0,True,7 days 11:14:42.780953,"this player play time is only 0.26% of average, churn level is 1254.78"
+5346,yEIxsO0zhAgUQLn7Wr46UaJQaVq2,0.0,7973.0599999999995,0.0,True,7 days 04:28:43.780953,player does not play!
+5349,yFr9ZqgJ5ReT0FmYsQXb9zUZqo13,0.0,5820.91,0.0,True,7 days 01:58:51.780953,player does not play!
+5352,yHqyF3iprmVs5PPKVb06JzRDxSm1,0.0,5746.31,0.0,True,6 days 14:21:52.780953,player does not play!
+5369,yVfFvuIu2cO6dwYjNjzUDPGCNLs2,0.0,7351.1900000000005,0.0,True,6 days 07:31:03.781950,player does not play!
+5373,yXiYrodTH4OhzKa2sz8dfbFhueP2,0.0,4496.52,0.0,True,5 days 10:49:50.781950,player does not play!
+5375,yaPbWeafFUWNjF7t8XPL6zFmqlT2,0.0,4396.950000000001,0.0,True,5 days 22:07:57.781950,player does not play!
+5386,yei7Ky5lqaZmvLqjXFfuvpul1ms2,0.0,6191.049999999999,0.0,True,5 days 05:17:06.781950,player does not play!
+5393,yhisLB0ZrhU5rMVLmOdt8yWT6nI3,0.0,8641.11,0.0,True,6 days 14:45:59.781950,player does not play!
+5399,ylTEMstrN1aBHOdXVY6Flc8a8xW2,0.0,4553.86,0.0,True,4 days 21:18:21.781950,player does not play!
+5419,yy6wds61rTbHA4Zdj7r8KUUD5Uh2,3.17,7911.299999999999,14.0,True,5 days 23:59:15.781950,"this player play time is only 0.29% of average, churn level is 9479.3"
+5422,yz41082LOqVhjb8AhmUlWlqCwEN2,0.0,6103.88,0.0,True,8 days 09:22:38.781950,player does not play!
+5434,z92FkW8WaAcogrz4LiG91nWrqTt1,13.1,7070.9,6.0,True,4 days 22:40:29.782947,"this player play time is only 1.34% of average, skill is 27.22882391592132% of average, churn level is 652.0"
+5439,zBTFv8yTc3VLooIJLrJcntbRoml2,4.37,8884.58,32.0,True,4 days 22:43:07.782947,"this player play time is only 0.36% of average, churn level is 2738.29"
+5454,zQKKPN6BdsQn8nO3QgegDiDl4BH3,0.0,9478.64,0.0,True,4 days 14:33:56.782947,player does not play!
+5459,zSYIi8FqY5cGmXJmfCZHawQ0YeJ2,0.0,4300.580000000001,0.0,True,8 days 10:14:58.782947,player does not play!
+5466,zYXzaHnff9NSWv7jh0tC3NJuvqL2,0.0,8650.300000000001,0.0,True,8 days 03:07:02.782947,player does not play!
+5478,zkfQF1GJdlcuSWMGFBP04zJ13oq1,0.0,4248.18,0.0,True,7 days 05:59:22.782947,player does not play!
+5480,zlt8vJXYhFeYjj196i0VYhOX86i2,0.0,8183.990000000001,0.0,True,6 days 03:23:39.782947,player does not play!
+5486,zrMFXxjZ8LNufUSvhcbGfECxPSw1,0.0,8692.099999999999,0.0,True,5 days 06:50:56.782947,player does not play!
+5498,zxAPdjkPnhVSyaj76wWEom0zVvC2,88.3,6708.63,129.0,True,5 days 03:26:18.782947,"this player play time is only 9.52% of average, churn level is 279.07"
+5500,zxhS5ZiEUOZVH8KfGblgkqV74qs2,0.0,4862.3,0.0,True,8 days 00:20:09.782947,player does not play!
